@@ -18,7 +18,7 @@ void setup() {
   Keyboard.begin();
   
   Serial.println("Init");
-  Serial1.setTimeout(20);
+  Serial1.setTimeout(13); // 15 to big 10 to smale                                                                                                                                               20 -> checksum error 4 fist packages
   pinMode(led, OUTPUT);
   blink(500);
   blink(500);

@@ -1,19 +1,44 @@
 int key_decode_mode(byte preMode, byte curMode);
+enum Event { 
+      EV_NONE=0,
+      EV_DOWN,
+      EV_CLICK,
+      EV_DOUBLE_CLICK, 
+      EV_PRESS, 
+      EV_LONGPRESS 
+};
 
-static const byte MODS = 3;
+static const byte MODS = 2;
 static const byte ROWS = 7; //four rows
 static const byte COLS = 7; //three columns
-
-static byte key_mode = 0;
-static char keyMap[MODS][ROWS][COLS] = {
+static byte glob_mode = 0;
+/*
+    KEY_LEFT_GUI	0x83	131
+    KEY_INSERT	        0xD1	209
+    KEY_PAGE_UP	        0xD3	211
+    KEY_PAGE_DOWN	0xD6	214
+    KEY_HOME	        0xD2	210
+    KEY_END	        0xD5	213
+    KEY_CAPS_LOCK
+*/
+static int keyMap[MODS][ROWS][COLS] = {
   {
-    {'7', 'u', 'j', 'n', '*', '*', '*'},
-    {'6', 'z', 'h', 'b', 'm', ',', 'l'},
-    {'5', 't', 'g', 'v', '.', '*', '*'},
-    {'4', 'r', 'f', 'c', ' ', 'p', '*'},
-    {'3', 'e', 'd', 'x', '*', '0', 'o'},
-    {'2', 'w', 's', 'y', '*', '9', 'i'},
-    {'1', 'q', 'a', '*', '*', '8', 'k'}
+    {'7', 'u', 'j', 'n', KEY_RIGHT_ARROW, ' ', KEY_BACKSPACE},
+    {'6', 'z', 'h', 'b', 'm',             ',', 'l'},
+    {'5', 't', 'g', 'v', '.',             KEY_RETURN, ' '},
+    {'4', 'r', 'f', 'c', ' ',             'p', ' '},
+    {'3', 'e', 'd', 'x', KEY_LEFT_ARROW,  '0', 'o'},
+    {'2', 'w', 's', 'y', ' ',             '9', 'i'},
+    {'1', 'q', 'a', ' ', ' ',             '8', 'k'}
+  },
+  {
+    {'7', 'ü', 'j', 'n', KEY_UP_ARROW,    ' ', KEY_BACKSPACE},
+    {'6', '^', '´', '+', 'm',             '#', 'l'},
+    {'5', 't', 'g', '-', 'ß',             KEY_RETURN, ' '},
+    {'4', 'r', 'f', 'c', ' ',             'p', ' '},
+    {'3', 'e', 'd', 'x', KEY_DOWN_ARROW , KEY_DELETE, 'ö'},
+    {'2', 'w', 's', '<', ' ',             '9', 'i'},
+    {KEY_ESC, KEY_TAB, 'ä', ' ', ' ',             '8', 'k'}
   }
 };
 
@@ -25,31 +50,22 @@ int key_check(byte* buffer, int len){
   return SUCCESS;
 }
 
-char key_map(byte key){
+int key_map(byte key){
   if(0x00 == key){ return '\0'; }
+  if(MODS <= glob_mode){ return '\0'; }
   
-  byte row =  key & 0x0f;
-  byte col = (key & 0xf0) >> 4;
-  byte mode = 0;
-  
-  row--;
-  col--;
-  
+  byte row = (key & 0x0f)         -1;
+  byte col = ((key & 0xf0) >> 4)  -1;  
   if(ROWS <= row){ return '\0'; }
   if(COLS <= col){ return '\0'; }
   
-  char c = keyMap[mode][row][col];
+  int     c = keyMap[glob_mode][row][col];
   return c;
 }
 
 int key_decode(byte* buffer, int len){
   //Serial.println("<<<key press");
   //k1, k2
-  //0x51 right
-  //0x55 left
-  //0x63 enter
-  //0x71 backspace
-  
   static byte preMod = 0;
   static byte  preK1 = 0;
   static byte  preK2 = 0;
@@ -59,10 +75,26 @@ int key_decode(byte* buffer, int len){
   k1  = buffer[1];
   k2  = buffer[2];
   
-  if(preK1 != k1 || preK2 != k2){
+  boolean changeK1 = preK1 != k1;
+  boolean changeK2 = preK2 != k2;
+  boolean diffPK1K2 = preK1 != k2;
+  boolean diffPK2K1 = preK2 != k1;
+  
+  
+  if( changeK1 || changeK2 ){
     //test routine for press
-    if(k1){ Keyboard.press('a'); }
-    else  { Keyboard.release('a'); }
+    if(k1 && changeK1 && diffPK2K1){ 
+      Keyboard.press(key_map(k1)); 
+    }
+    if(k2 && changeK2 && diffPK1K2){ 
+      Keyboard.press(key_map(k2)); 
+    }
+    if(preK1 && changeK1 && diffPK1K2){ 
+      Keyboard.release(key_map(preK1)); 
+    }
+    if(preK2 && changeK2 && diffPK2K1){
+      Keyboard.release(key_map(preK2));
+    }
   }
   
   if(preMod != mod){ key_decode_mode(preMod, mod); }
@@ -77,59 +109,39 @@ int key_decode(byte* buffer, int len){
 int key_decode_mode(byte preMode, byte mode){
   static const byte shift  = 0b0001;
   static const byte square = 0b0010; // strg
-  static const byte circle = 0b0100; // altGr
-  static const byte people = 0b1000; // alt
+  static const byte circle = 0b0100; // alt
+  static const byte people = 0b1000; // 
   
-  static const byte masks[4] = {shift, square, circle, people};
+  static ButtonHandler handler_shift  = ButtonHandler(0, shift);
+  static ButtonHandler handler_square = ButtonHandler(1, square);
+  static ButtonHandler handler_circle = ButtonHandler(2, circle);
+  static ButtonHandler handler_people = ButtonHandler(3, people);
   
-  static const int  click_max_ms = 200;
-  static const int dclick_max_ms = 500;
-  static const int  press_min_ms = 500;
-  static const int  press_max_ms = 2000;
-  static const int lpress_min_ms = 2000;
-  static const int lpress_max_ms = 4000;
-  
-  static unsigned long times[4][2] = {{0, 0}, {0, 0}, {0, 0}, {0, 0}};
-  static boolean pressed[4] = {false, false, false, false};
-  
+  static ButtonHandler handlers[4] = {handler_shift, handler_square, handler_circle, handler_people};
+  //static const byte masks[4] = {shift, square, circle, people}; // not used yet
+  static const int keys[4] = {KEY_LEFT_SHIFT, KEY_LEFT_CTRL, KEY_LEFT_ALT, 0};
+  static const char* names[4] = {"SHIFT", "CTRL", "ALT", "MODE change"};
+  //static byte mode_state[4];
   byte key_mode_state[4];
-  
   unsigned long time = millis();
   
   for(int i = 0; i < 4; i++){
-    key_mode_state[i] = mode & masks[i];
-    
-    if( key_mode_state[i] && !pressed[i]){
-      pressed[i] = true;
-      times[i][1] = times[i][0]; // save last press time
-      times[i][0] = time;        // save start time
-    } else if (!key_mode_state[i] && pressed[i]){
-      Serial.print(i);
-      pressed[i] = false;
-      long delta = time - times[i][0];
-      if(click_max_ms > delta){
-        // click
-        long delta_dclick = time - times[i][1];
-        if(dclick_max_ms > delta_dclick){
-          // double click
-          Serial.println("*D");
-        } else {
-          Serial.println("*C");
-          
-        }
-      }else if(press_min_ms < delta && press_max_ms > delta){
-        // press
-        Serial.println("*P");
-      }else if(lpress_min_ms < delta && lpress_max_ms > delta){
-        // long press
-        Serial.println("*L");
-      }else if(lpress_max_ms < delta){
-        // Holded
-        Serial.println("*H");
-      }
+    key_mode_state[i] = handlers[i].handle(time, mode);
+    if(key_mode_state[i] == EV_CLICK || key_mode_state[i] == EV_DOWN){
+      Serial.print("+++");
+      Serial.print("press ");
+      Serial.println(names[i]);
+      int key = keys[i];
+      if(key){ Keyboard.press(key); }
+      else { glob_mode = 1; }
+    }else if(key_mode_state[i] == EV_DOUBLE_CLICK || key_mode_state[i] == EV_PRESS || key_mode_state[i] == EV_LONGPRESS){
+      Serial.print("+++");
+      Serial.print("release ");
+      Serial.println(names[i]);
+      int key = keys[i];
+      if(key){ Keyboard.release(key); }
+      else { glob_mode = 0;}
     }
   }
-  
-  
   return SUCCESS;
 }
