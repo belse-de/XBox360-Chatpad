@@ -1,0 +1,9437 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2017.03.27 20:59:23 =~=~=~=~=~=~=~=~=~=~=~=
+Start
+>>>msg init
+>>>msg wake
+<<<A585F003000D0DC9A585F003000D0DC9
+check failed - status
+checksum does not match
+checksum does not match
+<<<A585F003000E0EC7
+check failed - status
+checksum does not match
+<<<A585F003000E0EC7
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000F0FC5
+check failed - status
+checksum does not match
+<<<A585F003000F0FC5
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000000E3
+check failed - status
+checksum does not match
+<<<A585F003000000E3
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000101E1
+check failed - status
+checksum does not match
+<<<A585F003000101E1
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000202DF
+check failed - status
+checksum does not match
+<<<A585F003000202DF
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000303DD
+check failed - status
+checksum does not match
+<<<A585F003000303DD
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000404DB
+check failed - status
+checksum does not match
+<<<A585F003000404DB
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000505D9
+check failed - status
+checksum does not match
+<<<A585F003000505D9
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000606D7
+check failed - status
+checksum does not match
+<<<A585F003000606D7
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000707D5
+check failed - status
+checksum does not match
+<<<A585F003000707D5
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000808D3
+check failed - status
+checksum does not match
+<<<A585F003000808D3
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000909D1
+check failed - status
+checksum does not match
+<<<A585F003000909D1
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000A0ACF
+check failed - status
+checksum does not match
+<<<A585F003000A0ACF
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000B0BCD
+check failed - status
+checksum does not match
+<<<A585F003000B0BCD
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000C0CCB
+check failed - status
+checksum does not match
+<<<A585F003000C0CCB
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000D0DC9
+check failed - status
+checksum does not match
+<<<A585F003000D0DC9
+check failed - status
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2017.03.27 21:03:20 =~=~=~=~=~=~=~=~=~=~=~=
+Start
+>>>msg init
+>>>msg wake
+<<<A585F003000101E1A585F003000101E1
+check failed - status
+>>>msg wake
+>>>msg brut 00EB
+>>>msg wake
+>>>msg brut 01EA
+>>>msg wake
+>>>msg brut 02E9
+checksum does not match
+>>>msg wake
+>>>msg brut 03E8
+>>>msg wake
+>>>msg brut 04E7
+checksum does not match
+>>>msg wake
+>>>msg brut 05E6
+<<<A585F003000202DF
+check failed - status
+>>>msg wake
+>>>msg brut 06E5
+>>>msg wake
+>>>msg brut 07E4
+checksum does not match
+>>>msg wake
+>>>msg brut 08E3
+>>>msg wake
+>>>msg brut 09E2
+>>>msg wake
+>>>msg brut 0AE1
+<<<A585F003B8020227
+check failed - status
+>>>msg wake
+>>>msg brut 0BE0
+>>>msg wake
+>>>msg brut 0CDF
+>>>msg wake
+>>>msg brut 0DDE
+>>>msg wake
+>>>msg brut 0EDD
+>>>msg wake
+>>>msg brut 0FDC
+<<<A585F003000202DF
+check failed - status
+>>>msg wake
+>>>msg brut 10DB
+>>>msg wake
+>>>msg brut 11DA
+>>>msg wake
+>>>msg brut 12D9
+>>>msg wake
+>>>msg brut 13D8
+>>>msg wake
+>>>msg brut 14D7
+<<<A585F004A8020236
+check failed - status
+>>>msg wake
+>>>msg brut 15D6
+>>>msg wake
+>>>msg brut 16D5
+>>>msg wake
+>>>msg brut 17D4
+>>>msg wake
+>>>msg brut 18D3
+>>>msg wake
+>>>msg brut 19D2
+<<<A5850101011001C2
+check failed - status
+>>>msg wake
+>>>msg brut 1AD1
+>>>msg wake
+>>>msg brut 1BD0
+>>>msg wake
+>>>msg brut 1CCF
+>>>msg wake
+>>>msg brut 1DCE
+>>>msg wake
+>>>msg brut 1ECD
+>>>msg wake
+>>>msg brut 1FCC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 20CB
+>>>msg wake
+>>>msg brut 21CA
+>>>msg wake
+>>>msg brut 22C9
+>>>msg wake
+>>>msg brut 23C8
+>>>msg wake
+>>>msg brut 24C7
+<<<A545F0030004041B
+<<<status - standby>>>msg wake
+ - light off - activations: 4
+>>>msg wake
+>>>msg brut 25C6
+>>>msg wake
+>>>msg brut 26C5
+>>>msg wake
+>>>msg brut 27C4
+>>>msg wake
+>>>msg brut 28C3
+>>>msg wake
+>>>msg brut 29C2
+>>>msg wake
+>>>msg brut 2AC1
+>>>msg wake
+>>>msg brut 2BC0
+>>>msg wake
+>>>msg brut 2CBF
+>>>msg wake
+>>>msg brut 2DBE
+>>>msg wake
+>>>msg brut 2EBD
+>>>msg wake
+>>>msg brut 2FBC
+>>>msg wake
+>>>msg brut 30BB
+>>>msg wake
+>>>msg brut 31BA
+>>>msg wake
+>>>msg brut 32B9
+>>>msg wake
+>>>msg brut 33B8
+<<<A5450420010110E0
+check failed - status
+>>>msg wake
+>>>msg brut 34B7
+>>>msg wake
+>>>msg brut 35B6
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut 36B5
+>>>msg wake
+>>>msg brut 37B4
+<<<A50504010A7F7F49
+check failed - status
+>>>msg wake
+>>>msg brut 38B3
+>>>msg wake
+>>>msg brut 39B2
+<<<A5450404022302E7
+check failed - status
+>>>msg wake
+>>>msg brut 3AB1
+>>>msg wake
+>>>msg brut 3BB0
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut 3CAF
+>>>msg wake
+>>>msg brut 3DAE
+<<<A505040000009AB8
+check failed - status
+>>>msg wake
+>>>msg brut 3EAD
+>>>msg wake
+>>>msg brut 3FAC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 40AB
+>>>msg wake
+>>>msg brut 41AA
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 42A9
+>>>msg wake
+>>>msg brut 43A8
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 44A7
+>>>msg wake
+>>>msg brut 45A6
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 46A5
+>>>msg wake
+>>>msg brut 47A4
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 48A3
+>>>msg wake
+>>>msg brut 49A2
+>>>msg wake
+>>>msg brut 4AA1
+>>>msg wake
+>>>msg brut 4BA0
+>>>msg wake
+>>>msg brut 4C9F
+>>>msg wake
+>>>msg brut 4D9E
+>>>msg wake
+>>>msg brut 4E9D
+>>>msg wake
+>>>msg brut 4F9C
+>>>msg wake
+>>>msg brut 509B
+>>>msg wake
+>>>msg brut 519A
+>>>msg wake
+>>>msg brut 5299
+<<<A505F004A10404B9
+check failed - status
+>>>msg wake
+>>>msg brut 5398
+>>>msg wake
+>>>msg brut 5497
+>>>msg wake
+>>>msg brut 5596
+>>>msg wake
+>>>msg brut 5695
+>>>msg wake
+>>>msg brut 5794
+<<<A505F004990404C1
+check failed - status
+>>>msg wake
+>>>msg brut 5893
+>>>msg wake
+>>>msg brut 5992
+<<<A505010101100142
+check failed - status
+>>>msg wake
+>>>msg brut 5A91
+>>>msg wake
+>>>msg brut 5B90
+>>>msg wake
+>>>msg brut 5C8F
+>>>msg wake
+>>>msg brut 5D8E
+>>>msg wake
+>>>msg brut 5E8D
+>>>msg wake
+>>>msg brut 5F8C
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 608B
+>>>msg wake
+>>>msg brut 618A
+>>>msg wake
+>>>msg brut 6289
+>>>msg wake
+>>>msg brut 6388
+>>>msg wake
+>>>msg brut 6487
+<<<A585F003000606D7
+check failed - status
+>>>msg wake
+>>>msg brut 6586
+>>>msg wake
+>>>msg brut 6685
+>>>msg wake
+>>>msg brut 6784
+>>>msg wake
+>>>msg brut 6883
+>>>msg wake
+>>>msg brut 6982
+>>>msg wake
+>>>msg brut 6A81
+>>>msg wake
+>>>msg brut 6B80
+>>>msg wake
+>>>msg brut 6C7F
+>>>msg wake
+>>>msg brut 6D7E
+>>>msg wake
+>>>msg brut 6E7D
+>>>msg wake
+>>>msg brut 6F7C
+>>>msg wake
+>>>msg brut 707B
+>>>msg wake
+>>>msg brut 717A
+>>>msg wake
+>>>msg brut 7279
+>>>msg wake
+>>>msg brut 7378
+<<<A5850420010110A0
+check failed - status
+>>>msg wake
+>>>msg brut 7477
+>>>msg wake
+>>>msg brut 7576
+<<<A505040000000052
+check failed - status
+>>>msg wake
+>>>msg brut 7675
+>>>msg wake
+>>>msg brut 7774
+<<<A54504010A7F7F09
+check failed - status
+>>>msg wake
+>>>msg brut 7873
+>>>msg wake
+>>>msg brut 7972
+<<<A5850404022302A7
+check failed - status
+>>>msg wake
+>>>msg brut 7A71
+>>>msg wake
+>>>msg brut 7B70
+<<<A505040000000052
+check failed - status
+>>>msg wake
+>>>msg brut 7C6F
+>>>msg wake
+>>>msg brut 7D6E
+<<<A545040000009A78
+check failed - status
+>>>msg wake
+>>>msg brut 7E6D
+>>>msg wake
+>>>msg brut 7F6C
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 806B
+>>>msg wake
+>>>msg brut 816A
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 8269
+>>>msg wake
+>>>msg brut 8368
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 8467
+>>>msg wake
+>>>msg brut 8566
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 8665
+>>>msg wake
+>>>msg brut 8764
+>>>msg wake
+>>>msg brut 8863
+>>>msg wake
+>>>msg brut 8962
+>>>msg wake
+>>>msg brut 8A61
+>>>msg wake
+>>>msg brut 8B60
+>>>msg wake
+>>>msg brut 8C5F
+>>>msg wake
+>>>msg brut 8D5E
+>>>msg wake
+>>>msg brut 8E5D
+>>>msg wake
+>>>msg brut 8F5C
+>>>msg wake
+>>>msg brut 905B
+<<<A505F004B906069D
+check failed - status
+>>>msg wake
+>>>msg brut 915A
+>>>msg wake
+>>>msg brut 9259
+>>>msg wake
+>>>msg brut 9358
+>>>msg wake
+>>>msg brut 9457
+>>>msg wake
+>>>msg brut 9556
+<<<A505F004910606C5
+check failed - status
+>>>msg wake
+>>>msg brut 9655
+>>>msg wake
+>>>msg brut 9754
+>>>msg wake
+>>>msg brut 9853
+>>>msg wake
+>>>msg brut 9952
+>>>msg wake
+>>>msg brut 9A51
+<<<A505010101100142
+check failed - status
+>>>msg wake
+>>>msg brut 9B50
+>>>msg wake
+>>>msg brut 9C4F
+>>>msg wake
+>>>msg brut 9D4E
+>>>msg wake
+>>>msg brut 9E4D
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 9F4C
+>>>msg wake
+>>>msg brut A04B
+>>>msg wake
+>>>msg brut A14A
+>>>msg wake
+>>>msg brut A249
+>>>msg wake
+>>>msg brut A348
+<<<A585F003000808D3
+check failed - status
+>>>msg wake
+>>>msg brut A447
+>>>msg wake
+>>>msg brut A546
+>>>msg wake
+>>>msg brut A645
+>>>msg wake
+>>>msg brut A744
+>>>msg wake
+>>>msg brut A843
+>>>msg wake
+>>>msg brut A942
+>>>msg wake
+>>>msg brut AA41
+>>>msg wake
+>>>msg brut AB40
+>>>msg wake
+>>>msg brut AC3F
+>>>msg wake
+>>>msg brut AD3E
+>>>msg wake
+>>>msg brut AE3D
+>>>msg wake
+>>>msg brut AF3C
+>>>msg wake
+>>>msg brut B03B
+>>>msg wake
+>>>msg brut B13A
+>>>msg wake
+>>>msg brut B239
+<<<A5850420010110A0
+check failed - status
+>>>msg wake
+>>>msg brut B338
+>>>msg wake
+>>>msg brut B437
+<<<A505040000000052
+check failed - status
+>>>msg wake
+>>>msg brut B536
+>>>msg wake
+>>>msg brut B635
+<<<A54504010A7F7F09
+check failed - status
+>>>msg wake
+>>>msg brut B734
+>>>msg wake
+>>>msg brut B833
+<<<A5850404022302A7
+check failed - status
+>>>msg wake
+>>>msg brut B932
+>>>msg wake
+>>>msg brut BA31
+<<<A505040000000052
+check failed - status
+>>>msg wake
+>>>msg brut BB30
+>>>msg wake
+>>>msg brut BC2F
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut BD2E
+>>>msg wake
+>>>msg brut BE2D
+<<<A585040000009A38
+check failed - status
+>>>msg wake
+>>>msg brut BF2C
+>>>msg wake
+>>>msg brut C02B
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut C12A
+>>>msg wake
+>>>msg brut C229
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut C328
+>>>msg wake
+>>>msg brut C427
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut C526
+>>>msg wake
+>>>msg brut C625
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut C724
+>>>msg wake
+>>>msg brut C823
+>>>msg wake
+>>>msg brut C922
+>>>msg wake
+>>>msg brut CA21
+>>>msg wake
+>>>msg brut CB20
+>>>msg wake
+>>>msg brut CC1F
+>>>msg wake
+>>>msg brut CD1E
+>>>msg wake
+>>>msg brut CE1D
+>>>msg wake
+>>>msg brut CF1C
+>>>msg wake
+>>>msg brut D01B
+>>>msg wake
+>>>msg brut D11A
+<<<A545F00481080891
+<<<status - awake   - ???    04 - activations: 8
+>>>msg wake
+>>>msg brut D219
+>>>msg wake
+>>>msg brut D318
+>>>msg wake
+>>>msg brut D417
+>>>msg wake
+>>>msg brut D516
+>>>msg wake
+>>>msg brut D615
+<<<A545F004B1080861
+<<<status - awake   - ???    04 - activations: 8
+>>>msg wake
+>>>msg brut D714
+>>>msg wake
+>>>msg brut D813
+>>>msg wake
+>>>msg brut D912
+>>>msg wake
+>>>msg brut DA11
+>>>msg wake
+>>>msg brut DB10
+<<<A545010101100102
+check failed - status
+>>>msg wake
+>>>msg brut DC0F
+>>>msg wake
+>>>msg brut DD0E
+>>>msg wake
+>>>msg brut DE0D
+>>>msg wake
+>>>msg brut DF0C
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut E00B
+>>>msg wake
+>>>msg brut E10A
+>>>msg wake
+>>>msg brut E209
+>>>msg wake
+>>>msg brut E308
+>>>msg wake
+>>>msg brut E407
+<<<A505F004B90A0A95
+check failed - status
+>>>msg wake
+>>>msg brut E506
+>>>msg wake
+>>>msg brut E605
+>>>msg wake
+>>>msg brut E704
+>>>msg wake
+>>>msg brut E803
+>>>msg wake
+>>>msg brut E902
+>>>msg wake
+>>>msg brut EA01
+>>>msg wake
+>>>msg brut EB00
+>>>msg wake
+>>>msg brut ECFF
+>>>msg wake
+>>>msg brut EDFE
+>>>msg wake
+>>>msg brut EEFD
+>>>msg wake
+>>>msg brut EFFC
+>>>msg wake
+>>>msg brut F0FB
+>>>msg wake
+>>>msg brut F1FA
+>>>msg wake
+>>>msg brut F2F9
+>>>msg wake
+>>>msg brut F3F8
+<<<A505042001011020
+check failed - status
+>>>msg wake
+>>>msg brut F4F7
+>>>msg wake
+>>>msg brut F5F6
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut F6F5
+>>>msg wake
+>>>msg brut F7F4
+<<<A58504010A7F7FC9
+check failed - status
+>>>msg wake
+>>>msg brut F8F3
+>>>msg wake
+>>>msg brut F9F2
+<<<A505040402230227
+check failed - status
+>>>msg wake
+>>>msg brut FAF1
+>>>msg wake
+>>>msg brut FBF0
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut FCEF
+>>>msg wake
+>>>msg brut FDEE
+<<<A585040000009A38
+check failed - status
+>>>msg wake
+>>>msg brut FEED
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2017.03.27 21:06:09 =~=~=~=~=~=~=~=~=~=~=~=
+Start
+>>>msg init
+>>>msg wake
+<<<A545F0030003031DA545F0030003031D
+check failed - status
+>>>msg wake
+>>>msg brut 00EB
+>>>msg wake
+>>>msg brut 01EA
+>>>msg wake
+>>>msg brut 02E9
+checksum does not match
+>>>msg wake
+>>>msg brut 03E8
+>>>msg wake
+>>>msg brut 04E7
+>>>msg wake
+>>>msg brut 05E6
+>>>msg wake
+>>>msg brut 06E5
+<<<A545F0030004041B
+<<<status - standby>>>msg wake
+ - light off - activations: 4
+>>>msg wake
+>>>msg brut 07E4
+>>>msg wake
+>>>msg brut 08E3
+>>>msg wake
+>>>msg brut 09E2
+>>>msg wake
+>>>msg brut 0AE1
+>>>msg wake
+>>>msg brut 0BE0
+<<<A545F00398040483
+<<<status - standby>>>msg wake
+ - ???    03 - activations: 4
+>>>msg wake
+>>>msg brut 0CDF
+>>>msg wake
+>>>msg brut 0DDE
+>>>msg wake
+>>>msg brut 0EDD
+>>>msg wake
+>>>msg brut 0FDC
+>>>msg wake
+>>>msg brut 10DB
+<<<A545F0030004041B
+<<<status - standby>>>msg wake
+ - light off - activations: 4
+>>>msg wake
+>>>msg brut 11DA
+>>>msg wake
+>>>msg brut 12D9
+>>>msg wake
+>>>msg brut 13D8
+>>>msg wake
+>>>msg brut 14D7
+>>>msg wake
+>>>msg brut 15D6
+<<<A545F0049004048A
+<<<status - awake   - ???    04 - activations: 4
+>>>msg wake
+>>>msg brut 16D5
+>>>msg wake
+>>>msg brut 17D4
+>>>msg wake
+>>>msg brut 18D3
+>>>msg wake
+>>>msg brut 19D2
+>>>msg wake
+>>>msg brut 1AD1
+<<<A545010101100102
+check failed - status
+>>>msg wake
+>>>msg brut 1BD0
+>>>msg wake
+>>>msg brut 1CCF
+>>>msg wake
+>>>msg brut 1DCE
+>>>msg wake
+>>>msg brut 1ECD
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 1FCC
+>>>msg wake
+>>>msg brut 20CB
+>>>msg wake
+>>>msg brut 21CA
+>>>msg wake
+>>>msg brut 22C9
+>>>msg wake
+>>>msg brut 23C8
+<<<A505F00300060657
+check failed - status
+>>>msg wake
+>>>msg brut 24C7
+>>>msg wake
+>>>msg brut 25C6
+>>>msg wake
+>>>msg brut 26C5
+>>>msg wake
+>>>msg brut 27C4
+>>>msg wake
+>>>msg brut 28C3
+>>>msg wake
+>>>msg brut 29C2
+>>>msg wake
+>>>msg brut 2AC1
+>>>msg wake
+>>>msg brut 2BC0
+>>>msg wake
+>>>msg brut 2CBF
+>>>msg wake
+>>>msg brut 2DBE
+>>>msg wake
+>>>msg brut 2EBD
+>>>msg wake
+>>>msg brut 2FBC
+>>>msg wake
+>>>msg brut 30BB
+>>>msg wake
+>>>msg brut 31BA
+>>>msg wake
+>>>msg brut 32B9
+<<<A505042001011020
+check failed - status
+>>>msg wake
+>>>msg brut 33B8
+>>>msg wake
+>>>msg brut 34B7
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut 35B6
+>>>msg wake
+>>>msg brut 36B5
+<<<A58504010A7F7FC9
+check failed - status
+>>>msg wake
+>>>msg brut 37B4
+>>>msg wake
+>>>msg brut 38B3
+<<<A505040402230227
+check failed - status
+>>>msg wake
+>>>msg brut 39B2
+>>>msg wake
+>>>msg brut 3AB1
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut 3BB0
+>>>msg wake
+>>>msg brut 3CAF
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut 3DAE
+>>>msg wake
+>>>msg brut 3EAD
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 3FAC
+>>>msg wake
+>>>msg brut 40AB
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 41AA
+>>>msg wake
+>>>msg brut 42A9
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 43A8
+>>>msg wake
+>>>msg brut 44A7
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 45A6
+>>>msg wake
+>>>msg brut 46A5
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 47A4
+>>>msg wake
+>>>msg brut 48A3
+>>>msg wake
+>>>msg brut 49A2
+>>>msg wake
+>>>msg brut 4AA1
+>>>msg wake
+>>>msg brut 4BA0
+>>>msg wake
+>>>msg brut 4C9F
+>>>msg wake
+>>>msg brut 4D9E
+>>>msg wake
+>>>msg brut 4E9D
+>>>msg wake
+>>>msg brut 4F9C
+>>>msg wake
+>>>msg brut 509B
+>>>msg wake
+>>>msg brut 519A
+<<<A585F00481060655
+check failed - status
+>>>msg wake
+>>>msg brut 5299
+>>>msg wake
+>>>msg brut 5398
+>>>msg wake
+>>>msg brut 5497
+>>>msg wake
+>>>msg brut 5596
+>>>msg wake
+>>>msg brut 5695
+<<<A585F004B1060625
+check failed - status
+>>>msg wake
+>>>msg brut 5794
+>>>msg wake
+>>>msg brut 5893
+>>>msg wake
+>>>msg brut 5992
+>>>msg wake
+>>>msg brut 5A91
+>>>msg wake
+>>>msg brut 5B90
+<<<A5850101011001C2
+check failed - status
+>>>msg wake
+>>>msg brut 5C8F
+>>>msg wake
+>>>msg brut 5D8E
+>>>msg wake
+>>>msg brut 5E8D
+>>>msg wake
+>>>msg brut 5F8C
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 608B
+>>>msg wake
+>>>msg brut 618A
+>>>msg wake
+>>>msg brut 6289
+>>>msg wake
+>>>msg brut 6388
+>>>msg wake
+>>>msg brut 6487
+<<<A545F00300080813
+<<<status - standby>>>msg wake
+ - light off - activations: 8
+>>>msg wake
+>>>msg brut 6586
+>>>msg wake
+>>>msg brut 6685
+>>>msg wake
+>>>msg brut 6784
+>>>msg wake
+>>>msg brut 6883
+>>>msg wake
+>>>msg brut 6982
+>>>msg wake
+>>>msg brut 6A81
+>>>msg wake
+>>>msg brut 6B80
+>>>msg wake
+>>>msg brut 6C7F
+>>>msg wake
+>>>msg brut 6D7E
+>>>msg wake
+>>>msg brut 6E7D
+>>>msg wake
+>>>msg brut 6F7C
+>>>msg wake
+>>>msg brut 707B
+>>>msg wake
+>>>msg brut 717A
+>>>msg wake
+>>>msg brut 7279
+>>>msg wake
+>>>msg brut 7378
+<<<A5450420010110E0
+check failed - status
+>>>msg wake
+>>>msg brut 7477
+>>>msg wake
+>>>msg brut 7576
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut 7675
+>>>msg wake
+>>>msg brut 7774
+<<<A50504010A7F7F49
+check failed - status
+>>>msg wake
+>>>msg brut 7873
+>>>msg wake
+>>>msg brut 7972
+<<<A5450404022302E7
+check failed - status
+>>>msg wake
+>>>msg brut 7A71
+>>>msg wake
+>>>msg brut 7B70
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut 7C6F
+>>>msg wake
+>>>msg brut 7D6E
+<<<A505040000009AB8
+check failed - status
+>>>msg wake
+>>>msg brut 7E6D
+>>>msg wake
+>>>msg brut 7F6C
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 806B
+>>>msg wake
+>>>msg brut 816A
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 8269
+>>>msg wake
+>>>msg brut 8368
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 8467
+>>>msg wake
+>>>msg brut 8566
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 8665
+>>>msg wake
+>>>msg brut 8764
+>>>msg wake
+>>>msg brut 8863
+>>>msg wake
+>>>msg brut 8962
+>>>msg wake
+>>>msg brut 8A61
+>>>msg wake
+>>>msg brut 8B60
+>>>msg wake
+>>>msg brut 8C5F
+>>>msg wake
+>>>msg brut 8D5E
+>>>msg wake
+>>>msg brut 8E5D
+>>>msg wake
+>>>msg brut 8F5C
+>>>msg wake
+>>>msg brut 905B
+<<<A585F004B9080819
+check failed - status
+>>>msg wake
+>>>msg brut 915A
+>>>msg wake
+>>>msg brut 9259
+>>>msg wake
+>>>msg brut 9358
+>>>msg wake
+>>>msg brut 9457
+>>>msg wake
+>>>msg brut 9556
+<<<A585F00491080841
+check failed - status
+>>>msg wake
+>>>msg brut 9655
+>>>msg wake
+>>>msg brut 9754
+>>>msg wake
+>>>msg brut 9853
+>>>msg wake
+>>>msg brut 9952
+>>>msg wake
+>>>msg brut 9A51
+<<<A5850101011001C2
+check failed - status
+>>>msg wake
+>>>msg brut 9B50
+>>>msg wake
+>>>msg brut 9C4F
+>>>msg wake
+>>>msg brut 9D4E
+>>>msg wake
+>>>msg brut 9E4D
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 9F4C
+>>>msg wake
+>>>msg brut A04B
+>>>msg wake
+>>>msg brut A14A
+>>>msg wake
+>>>msg brut A249
+>>>msg wake
+>>>msg brut A348
+<<<A545F004B90A0A55
+<<<status - awake   - ???    04 - activations: 10
+>>>msg wake
+>>>msg brut A447
+>>>msg wake
+>>>msg brut A546
+>>>msg wake
+>>>msg brut A645
+>>>msg wake
+>>>msg brut A744
+>>>msg wake
+>>>msg brut A843
+>>>msg wake
+>>>msg brut A942
+>>>msg wake
+>>>msg brut AA41
+>>>msg wake
+>>>msg brut AB40
+>>>msg wake
+>>>msg brut AC3F
+>>>msg wake
+>>>msg brut AD3E
+>>>msg wake
+>>>msg brut AE3D
+>>>msg wake
+>>>msg brut AF3C
+>>>msg wake
+>>>msg brut B03B
+>>>msg wake
+>>>msg brut B13A
+>>>msg wake
+>>>msg brut B239
+<<<A5450420010110E0
+check failed - status
+>>>msg wake
+>>>msg brut B338
+>>>msg wake
+>>>msg brut B437
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut B536
+>>>msg wake
+>>>msg brut B635
+<<<A50504010A7F7F49
+check failed - status
+>>>msg wake
+>>>msg brut B734
+>>>msg wake
+>>>msg brut B833
+<<<A5450404022302E7
+check failed - status
+>>>msg wake
+>>>msg brut B932
+>>>msg wake
+>>>msg brut BA31
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut BB30
+>>>msg wake
+>>>msg brut BC2F
+<<<A505040000000052
+check failed - status
+>>>msg wake
+>>>msg brut BD2E
+>>>msg wake
+>>>msg brut BE2D
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut BF2C
+>>>msg wake
+>>>msg brut C02B
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut C12A
+>>>msg wake
+>>>msg brut C229
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut C328
+>>>msg wake
+>>>msg brut C427
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut C526
+>>>msg wake
+>>>msg brut C625
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut C724
+>>>msg wake
+>>>msg brut C823
+>>>msg wake
+>>>msg brut C922
+>>>msg wake
+>>>msg brut CA21
+>>>msg wake
+>>>msg brut CB20
+>>>msg wake
+>>>msg brut CC1F
+>>>msg wake
+>>>msg brut CD1E
+>>>msg wake
+>>>msg brut CE1D
+>>>msg wake
+>>>msg brut CF1C
+>>>msg wake
+>>>msg brut D01B
+>>>msg wake
+>>>msg brut D11A
+<<<A505F004810A0ACD
+check failed - status
+>>>msg wake
+>>>msg brut D219
+>>>msg wake
+>>>msg brut D318
+>>>msg wake
+>>>msg brut D417
+>>>msg wake
+>>>msg brut D516
+>>>msg wake
+>>>msg brut D615
+<<<A505F004B10A0A9D
+check failed - status
+>>>msg wake
+>>>msg brut D714
+>>>msg wake
+>>>msg brut D813
+>>>msg wake
+>>>msg brut D912
+>>>msg wake
+>>>msg brut DA11
+>>>msg wake
+>>>msg brut DB10
+<<<A505010101100142
+check failed - status
+>>>msg wake
+>>>msg brut DC0F
+>>>msg wake
+>>>msg brut DD0E
+>>>msg wake
+>>>msg brut DE0D
+>>>msg wake
+>>>msg brut DF0C
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut E00B
+>>>msg wake
+>>>msg brut E10A
+>>>msg wake
+>>>msg brut E209
+>>>msg wake
+>>>msg brut E308
+>>>msg wake
+>>>msg brut E407
+<<<A585F004B90C0C11
+check failed - status
+>>>msg wake
+>>>msg brut E506
+>>>msg wake
+>>>msg brut E605
+>>>msg wake
+>>>msg brut E704
+>>>msg wake
+>>>msg brut E803
+>>>msg wake
+>>>msg brut E902
+>>>msg wake
+>>>msg brut EA01
+>>>msg wake
+>>>msg brut EB00
+>>>msg wake
+>>>msg brut ECFF
+>>>msg wake
+>>>msg brut EDFE
+>>>msg wake
+>>>msg brut EEFD
+>>>msg wake
+>>>msg brut EFFC
+>>>msg wake
+>>>msg brut F0FB
+>>>msg wake
+>>>msg brut F1FA
+>>>msg wake
+>>>msg brut F2F9
+>>>msg wake
+>>>msg brut F3F8
+<<<A5850420010110A0
+check failed - status
+>>>msg wake
+>>>msg brut F4F7
+>>>msg wake
+>>>msg brut F5F6
+<<<A505040000000052
+check failed - status
+>>>msg wake
+>>>msg brut F6F5
+>>>msg wake
+>>>msg brut F7F4
+<<<A54504010A7F7F09
+check failed - status
+>>>msg wake
+>>>msg brut F8F3
+>>>msg wake
+>>>msg brut F9F2
+<<<A5850404022302A7
+check failed - status
+>>>msg wake
+>>>msg brut FAF1
+>>>msg wake
+>>>msg brut FBF0
+<<<A505040000000052
+check failed - status
+>>>msg wake
+>>>msg brut FCEF
+>>>msg wake
+>>>msg brut FDEE
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut FEED
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FFEC
+>>>msg wake
+>>>msg brut FFEC

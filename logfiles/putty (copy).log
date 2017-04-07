@@ -1,0 +1,118 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2017.03.27 20:59:23 =~=~=~=~=~=~=~=~=~=~=~=
+Start
+>>>msg init
+>>>msg wake
+<<<A585F003000D0DC9A585F003000D0DC9
+check failed - status
+checksum does not match
+checksum does not match
+<<<A585F003000E0EC7
+check failed - status
+checksum does not match
+<<<A585F003000E0EC7
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000F0FC5
+check failed - status
+checksum does not match
+<<<A585F003000F0FC5
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000000E3
+check failed - status
+checksum does not match
+<<<A585F003000000E3
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000101E1
+check failed - status
+checksum does not match
+<<<A585F003000101E1
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000202DF
+check failed - status
+checksum does not match
+<<<A585F003000202DF
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000303DD
+check failed - status
+checksum does not match
+<<<A585F003000303DD
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000404DB
+check failed - status
+checksum does not match
+<<<A585F003000404DB
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000505D9
+check failed - status
+checksum does not match
+<<<A585F003000505D9
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000606D7
+check failed - status
+checksum does not match
+<<<A585F003000606D7
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000707D5
+check failed - status
+checksum does not match
+<<<A585F003000707D5
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000808D3
+check failed - status
+checksum does not match
+<<<A585F003000808D3
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000909D1
+check failed - status
+checksum does not match
+<<<A585F003000909D1
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000A0ACF
+check failed - status
+checksum does not match
+<<<A585F003000A0ACF
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000B0BCD
+check failed - status
+checksum does not match
+<<<A585F003000B0BCD
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000C0CCB
+check failed - status
+checksum does not match
+<<<A585F003000C0CCB
+check failed - status
+>>>msg init
+checksum does not match
+<<<A585F003000D0DC9
+check failed - status
+checksum does not match
+<<<A585F003000D0DC9
+check failed - status

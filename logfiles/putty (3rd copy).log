@@ -1,0 +1,1292 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2017.03.27 21:09:01 =~=~=~=~=~=~=~=~=~=~=~=
+Start
+>>>msg init
+>>>msg wake
+<<<A505F004000C0C4AA505F004000C0C4A
+check failed - status
+>>>msg wake
+>>>msg brut 00EB
+>>>msg wake
+>>>msg brut 01EA
+>>>msg wake
+>>>msg brut 02E9
+>>>msg wake
+>>>msg brut 03E8
+<<<05F003000D0D49A505F003000D0D49A5
+unknown package type
+>>>msg wake
+>>>msg brut 04E7
+<<<05F003000D0D49A505F004000D0D48A5
+unknown package type
+>>>msg wake
+>>>msg brut 05E6
+checksum does not match
+>>>msg wake
+>>>msg brut 06E5
+checksum does not match
+>>>msg wake
+>>>msg brut 07E4
+<<<05F004000D0D48A505F004000D0D48A5
+unknown package type
+>>>msg wake
+>>>msg brut 08E3
+>>>msg wake
+>>>msg brut 09E2
+>>>msg wake
+>>>msg brut 0AE1
+>>>msg wake
+>>>msg brut 0BE0
+<<<05F004A00D0DA8A505F004A00D0DA8A5
+unknown package type
+>>>msg wake
+>>>msg brut 0CDF
+<<<05F004A80D0DA0A505F004A80D0DA0A5
+unknown package type
+>>>msg wake
+>>>msg brut 0DDE
+<<<05F004A80D0DA0A505F004B80D0D90A5
+unknown package type
+>>>msg wake
+>>>msg brut 0EDD
+<<<05F004B90D0D8FA505F004B90D0D8FA5
+unknown package type
+>>>msg wake
+>>>msg brut 0FDC
+>>>msg wake
+>>>msg brut 10DB
+>>>msg wake
+>>>msg brut 11DA
+>>>msg wake
+>>>msg brut 12D9
+>>>msg wake
+>>>msg brut 13D8
+<<<05F004810D0DC7A505F004810D0DC7A5
+unknown package type
+>>>msg wake
+>>>msg brut 14D7
+<<<05F004810D0DC7A505F004A10D0DA7A5
+unknown package type
+>>>msg wake
+>>>msg brut 15D6
+<<<05F004890D0DBFA505F004890D0DBFA5
+unknown package type
+>>>msg wake
+>>>msg brut 16D5
+<<<05F004A90D0D9FA505F004A90D0D9FA5
+unknown package type
+>>>msg wake
+>>>msg brut 17D4
+<<<05F004910D0DB7A505F004910D0DB7A5
+unknown package type
+>>>msg wake
+>>>msg brut 18D3
+<<<05F004B10D0D97A505F004B10D0D97A5
+unknown package type
+>>>msg wake
+>>>msg brut 19D2
+<<<05F004990D0DAFA505F004990D0DAFA5
+unknown package type
+>>>msg wake
+>>>msg brut 1AD1
+<<<05F004B90D0D8FA505F004000D0D48A5
+unknown package type
+>>>msg wake
+>>>msg brut 1BD0
+<<<05F004000D0D48A505010101100142A5
+unknown package type
+>>>msg wake
+>>>msg brut 1CCF
+<<<45F004000D0D08A545F004000D0D08A5
+unknown package type
+>>>msg wake
+>>>msg brut 1DCE
+>>>msg wake
+>>>msg brut 1ECD
+>>>msg wake
+>>>msg brut 1FCC
+>>>msg wake
+>>>msg brut 20CB
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 21CA
+<<<85F003000D0DC9A585F003000E0EC7A5
+unknown package type
+>>>msg wake
+>>>msg brut 22C9
+checksum does not match
+>>>msg wake
+>>>msg brut 23C8
+checksum does not match
+>>>msg wake
+>>>msg brut 24C7
+<<<85F004000F0FC4A585F004000F0FC4A5
+unknown package type
+>>>msg wake
+>>>msg brut 25C6
+>>>msg wake
+>>>msg brut 26C5
+>>>msg wake
+>>>msg brut 27C4
+>>>msg wake
+>>>msg brut 28C3
+>>>msg wake
+>>>msg brut 29C2
+>>>msg wake
+>>>msg brut 2AC1
+>>>msg wake
+>>>msg brut 2BC0
+>>>msg wake
+>>>msg brut 2CBF
+>>>msg wake
+>>>msg brut 2DBE
+>>>msg wake
+>>>msg brut 2EBD
+>>>msg wake
+>>>msg brut 2FBC
+>>>msg wake
+>>>msg brut 30BB
+>>>msg wake
+>>>msg brut 31BA
+>>>msg wake
+>>>msg brut 32B9
+>>>msg wake
+>>>msg brut 33B8
+<<<850420010110A0A5850420010110A0A5
+unknown package type
+>>>msg wake
+>>>msg brut 34B7
+<<<05040000000052A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut 35B6
+<<<4504010A7F7F09A54504010A7F7F09A5
+unknown package type
+>>>msg wake
+>>>msg brut 36B5
+<<<850404022302A7A5850404022302A7A5
+unknown package type
+>>>msg wake
+>>>msg brut 37B4
+<<<05F004000F0F44A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut 38B3
+<<<45040000000012A545040000000012A5
+unknown package type
+>>>msg wake
+>>>msg brut 39B2
+<<<850400000000D2A5850400000000D2A5
+unknown package type
+>>>msg wake
+>>>msg brut 3AB1
+<<<05040000009AB8A505040000009AB8A5
+unknown package type
+>>>msg wake
+>>>msg brut 3BB0
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 3CAF
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 3DAE
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut 3EAD
+<<<45F004000F0F04A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 3FAC
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 40AB
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut 41AA
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 42A9
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 43A8
+<<<05F004000F0F44A505F004000F0F44A5
+unknown package type
+>>>msg wake
+>>>msg brut 44A7
+>>>msg wake
+>>>msg brut 45A6
+>>>msg wake
+>>>msg brut 46A5
+>>>msg wake
+>>>msg brut 47A4
+checksum does not match
+>>>msg wake
+>>>msg brut 48A3
+<<<05F004000F0F44A505F004000F0F44A5
+unknown package type
+>>>msg wake
+>>>msg brut 49A2
+>>>msg wake
+>>>msg brut 4AA1
+>>>msg wake
+>>>msg brut 4BA0
+<<<05F004A00F0FA4A505F004A00F0FA4A5
+unknown package type
+>>>msg wake
+>>>msg brut 4C9F
+<<<05F004A80F0F9CA505F004A80F0F9CA5
+unknown package type
+>>>msg wake
+>>>msg brut 4D9E
+<<<05F004B80F0F8CA505F004B80F0F8CA5
+unknown package type
+>>>msg wake
+>>>msg brut 4E9D
+<<<05F004B80F0F8CA505F004B90F0F8BA5
+unknown package type
+>>>msg wake
+>>>msg brut 4F9C
+<<<05F004B90F0F8BA505F004B90F0F8BA5
+unknown package type
+>>>msg wake
+>>>msg brut 509B
+<<<05F004000F0F44A505F004000F0F44A5
+unknown package type
+>>>msg wake
+>>>msg brut 519A
+<<<05F003000F0F45A505F003000F0F45A5
+unknown package type
+>>>msg wake
+>>>msg brut 5299
+<<<05F004000F0F44A505F004000F0F44A5
+unknown package type
+>>>msg wake
+>>>msg brut 5398
+>>>msg wake
+>>>msg brut 5497
+<<<05F004A00F0FA4A505F004A00F0FA4A5
+unknown package type
+>>>msg wake
+>>>msg brut 5596
+<<<05F004A00F0FA4A505F004880F0FBCA5
+unknown package type
+>>>msg wake
+>>>msg brut 5695
+<<<05F004A80F0F9CA505F004A80F0F9CA5
+unknown package type
+>>>msg wake
+>>>msg brut 5794
+<<<05F004900F0FB4A505F004900F0FB4A5
+unknown package type
+>>>msg wake
+>>>msg brut 5893
+<<<05F004B00F0F94A505F004B00F0F94A5
+unknown package type
+>>>msg wake
+>>>msg brut 5992
+<<<05F004980F0FACA505F004980F0FACA5
+unknown package type
+>>>msg wake
+>>>msg brut 5A91
+<<<05F004B80F0F8CA505F004B80F0F8CA5
+unknown package type
+>>>msg wake
+>>>msg brut 5B90
+<<<05010101100142A505010101100142A5
+unknown package type
+>>>msg wake
+>>>msg brut 5C8F
+checksum does not match
+>>>msg wake
+>>>msg brut 5D8E
+checksum does not match
+>>>msg wake
+>>>msg brut 5E8D
+<<<45F004B80F0F4CA545F004B80F0F4CA5
+unknown package type
+>>>msg wake
+>>>msg brut 5F8C
+<<<45F004000F0F04A545F003000F0F05A5
+unknown package type
+>>>msg wake
+>>>msg brut 608B
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 618A
+<<<85F004000000E2A585F004000000E2A5
+unknown package type
+>>>msg wake
+>>>msg brut 6289
+<<<85F004000101E0A585F004000101E0A5
+unknown package type
+>>>msg wake
+>>>msg brut 6388
+>>>msg wake
+>>>msg brut 6487
+>>>msg wake
+>>>msg brut 6586
+>>>msg wake
+>>>msg brut 6685
+>>>msg wake
+>>>msg brut 6784
+>>>msg wake
+>>>msg brut 6883
+>>>msg wake
+>>>msg brut 6982
+>>>msg wake
+>>>msg brut 6A81
+>>>msg wake
+>>>msg brut 6B80
+>>>msg wake
+>>>msg brut 6C7F
+>>>msg wake
+>>>msg brut 6D7E
+>>>msg wake
+>>>msg brut 6E7D
+>>>msg wake
+>>>msg brut 6F7C
+>>>msg wake
+>>>msg brut 707B
+>>>msg wake
+>>>msg brut 717A
+>>>msg wake
+>>>msg brut 7279
+>>>msg wake
+>>>msg brut 7378
+<<<850420010110A0A5850420010110A0A5
+unknown package type
+>>>msg wake
+>>>msg brut 7477
+<<<05040000000052A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut 7576
+<<<4504010A7F7F09A54504010A7F7F09A5
+unknown package type
+>>>msg wake
+>>>msg brut 7675
+<<<850404022302A7A5850404022302A7A5
+unknown package type
+>>>msg wake
+>>>msg brut 7774
+<<<05040000000052A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut 7873
+<<<45F00400010120A545040000000012A5
+unknown package type
+>>>msg wake
+>>>msg brut 7972
+<<<850400000000D2A5850400000000D2A5
+unknown package type
+>>>msg wake
+>>>msg brut 7A71
+<<<05040000009AB8A505040000009AB8A5
+unknown package type
+>>>msg wake
+>>>msg brut 7B70
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 7C6F
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 7D6E
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut 7E6D
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 7F6C
+<<<85F004000101E0A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 806B
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut 816A
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 8269
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 8368
+<<<05F00400010160A505F00400010160A5
+unknown package type
+>>>msg wake
+>>>msg brut 8467
+>>>msg wake
+>>>msg brut 8566
+>>>msg wake
+>>>msg brut 8665
+>>>msg wake
+>>>msg brut 8764
+>>>msg wake
+>>>msg brut 8863
+>>>msg wake
+>>>msg brut 8962
+>>>msg wake
+>>>msg brut 8A61
+>>>msg wake
+>>>msg brut 8B60
+<<<05F004A00101C0A505F004A00101C0A5
+unknown package type
+>>>msg wake
+>>>msg brut 8C5F
+<<<05F004A80101B8A505F004A80101B8A5
+unknown package type
+>>>msg wake
+>>>msg brut 8D5E
+<<<05F004B80101A8A505F004B80101A8A5
+unknown package type
+>>>msg wake
+>>>msg brut 8E5D
+<<<05F004B80101A8A505F004B90101A7A5
+unknown package type
+>>>msg wake
+>>>msg brut 8F5C
+<<<05F004B90101A7A505F004B90101A7A5
+unknown package type
+>>>msg wake
+>>>msg brut 905B
+<<<05F00400010160A505F00400010160A5
+unknown package type
+>>>msg wake
+>>>msg brut 915A
+<<<05F00300010161A505F00300010161A5
+unknown package type
+>>>msg wake
+>>>msg brut 9259
+<<<05F00400010160A505F00400010160A5
+unknown package type
+>>>msg wake
+>>>msg brut 9358
+>>>msg wake
+>>>msg brut 9457
+<<<05F004A00101C0A505F004A00101C0A5
+unknown package type
+>>>msg wake
+>>>msg brut 9556
+<<<05F004A00101C0A505F004880101D8A5
+unknown package type
+>>>msg wake
+>>>msg brut 9655
+<<<05F004A80101B8A505F004A80101B8A5
+unknown package type
+>>>msg wake
+>>>msg brut 9754
+<<<05F004900101D0A505F004900101D0A5
+unknown package type
+>>>msg wake
+>>>msg brut 9853
+<<<05F004B00101B0A505F004B00101B0A5
+unknown package type
+>>>msg wake
+>>>msg brut 9952
+<<<05F004980101C8A505F004980101C8A5
+unknown package type
+>>>msg wake
+>>>msg brut 9A51
+<<<05F004B80101A8A505F004B80101A8A5
+unknown package type
+>>>msg wake
+>>>msg brut 9B50
+<<<05010101100142A505010101100142A5
+unknown package type
+>>>msg wake
+>>>msg brut 9C4F
+<<<45F004B8010168A545F004B8010168A5
+unknown package type
+>>>msg wake
+>>>msg brut 9D4E
+>>>msg wake
+>>>msg brut 9E4D
+checksum does not match
+>>>msg wake
+>>>msg brut 9F4C
+<<<45F004B8010168A545F00400010120A5
+unknown package type
+>>>msg wake
+>>>msg brut A04B
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut A14A
+<<<85F004000202DEA585F004000202DEA5
+unknown package type
+>>>msg wake
+>>>msg brut A249
+<<<85F004000303DCA585F004000303DCA5
+unknown package type
+>>>msg wake
+>>>msg brut A348
+>>>msg wake
+>>>msg brut A447
+>>>msg wake
+>>>msg brut A546
+checksum does not match
+>>>msg wake
+>>>msg brut A645
+<<<85F004000303DCA585F004000303DCA5
+unknown package type
+>>>msg wake
+>>>msg brut A744
+>>>msg wake
+>>>msg brut A843
+>>>msg wake
+>>>msg brut A942
+>>>msg wake
+>>>msg brut AA41
+>>>msg wake
+>>>msg brut AB40
+>>>msg wake
+>>>msg brut AC3F
+>>>msg wake
+>>>msg brut AD3E
+>>>msg wake
+>>>msg brut AE3D
+>>>msg wake
+>>>msg brut AF3C
+>>>msg wake
+>>>msg brut B03B
+>>>msg wake
+>>>msg brut B13A
+>>>msg wake
+>>>msg brut B239
+>>>msg wake
+>>>msg brut B338
+<<<85F004000303DCA5850420010110A0A5
+unknown package type
+>>>msg wake
+>>>msg brut B437
+<<<05040000000052A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut B536
+<<<4504010A7F7F09A54504010A7F7F09A5
+unknown package type
+>>>msg wake
+>>>msg brut B635
+<<<850404022302A7A5850404022302A7A5
+unknown package type
+>>>msg wake
+>>>msg brut B734
+<<<05040000000052A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut B833
+<<<45040000000012A545040000000012A5
+unknown package type
+>>>msg wake
+>>>msg brut B932
+<<<85F003000303DDA5850400000000D2A5
+unknown package type
+>>>msg wake
+>>>msg brut BA31
+<<<05040000009AB8A505040000009AB8A5
+unknown package type
+>>>msg wake
+>>>msg brut BB30
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut BC2F
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut BD2E
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut BE2D
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut BF2C
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut C02B
+<<<05F0040003035CA505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut C12A
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut C229
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut C328
+<<<05F0040003035CA505F0040003035CA5
+unknown package type
+>>>msg wake
+>>>msg brut C427
+>>>msg wake
+>>>msg brut C526
+>>>msg wake
+>>>msg brut C625
+>>>msg wake
+>>>msg brut C724
+>>>msg wake
+>>>msg brut C823
+>>>msg wake
+>>>msg brut C922
+checksum does not match
+>>>msg wake
+>>>msg brut CA21
+<<<05F0040003035CA505F0040003035CA5
+unknown package type
+>>>msg wake
+>>>msg brut CB20
+<<<05F004A00303BCA505F004A00303BCA5
+unknown package type
+>>>msg wake
+>>>msg brut CC1F
+<<<05F004A80303B4A505F004A80303B4A5
+unknown package type
+>>>msg wake
+>>>msg brut CD1E
+<<<05F004B80303A4A505F004B80303A4A5
+unknown package type
+>>>msg wake
+>>>msg brut CE1D
+<<<05F004B80303A4A505F004B90303A3A5
+unknown package type
+>>>msg wake
+>>>msg brut CF1C
+<<<05F004B90303A3A505F004B90303A3A5
+unknown package type
+>>>msg wake
+>>>msg brut D01B
+<<<05F004B90303A3A505F0040003035CA5
+unknown package type
+>>>msg wake
+>>>msg brut D11A
+<<<05F0030003035DA505F0030003035DA5
+unknown package type
+>>>msg wake
+>>>msg brut D219
+<<<05F0040003035CA505F0040003035CA5
+unknown package type
+>>>msg wake
+>>>msg brut D318
+>>>msg wake
+>>>msg brut D417
+<<<05F004A00303BCA505F004A00303BCA5
+unknown package type
+>>>msg wake
+>>>msg brut D516
+<<<05F004880303D4A505F004880303D4A5
+unknown package type
+>>>msg wake
+>>>msg brut D615
+<<<05F004A80303B4A505F004A80303B4A5
+unknown package type
+>>>msg wake
+>>>msg brut D714
+<<<05F004A80303B4A505F004900303CCA5
+unknown package type
+>>>msg wake
+>>>msg brut D813
+<<<05F004B00303ACA505F004B00303ACA5
+unknown package type
+>>>msg wake
+>>>msg brut D912
+<<<05F004980303C4A505F004980303C4A5
+unknown package type
+>>>msg wake
+>>>msg brut DA11
+<<<05F004B80303A4A505F004B80303A4A5
+unknown package type
+>>>msg wake
+>>>msg brut DB10
+<<<05010101100142A505010101100142A5
+unknown package type
+>>>msg wake
+>>>msg brut DC0F
+<<<45F004B8030364A545F004B8030364A5
+unknown package type
+>>>msg wake
+>>>msg brut DD0E
+>>>msg wake
+>>>msg brut DE0D
+>>>msg wake
+>>>msg brut DF0C
+<<<45F004B8030364A545F0040003031CA5
+unknown package type
+>>>msg wake
+>>>msg brut E00B
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut E10A
+<<<85F004000404DAA585F004000404DAA5
+unknown package type
+>>>msg wake
+>>>msg brut E209
+<<<85F004000505D8A585F004000505D8A5
+unknown package type
+>>>msg wake
+>>>msg brut E308
+>>>msg wake
+>>>msg brut E407
+>>>msg wake
+>>>msg brut E506
+>>>msg wake
+>>>msg brut E605
+>>>msg wake
+>>>msg brut E704
+>>>msg wake
+>>>msg brut E803
+>>>msg wake
+>>>msg brut E902
+>>>msg wake
+>>>msg brut EA01
+>>>msg wake
+>>>msg brut EB00
+>>>msg wake
+>>>msg brut ECFF
+>>>msg wake
+>>>msg brut EDFE
+>>>msg wake
+>>>msg brut EEFD
+>>>msg wake
+>>>msg brut EFFC
+>>>msg wake
+>>>msg brut F0FB
+>>>msg wake
+>>>msg brut F1FA
+>>>msg wake
+>>>msg brut F2F9
+>>>msg wake
+>>>msg brut F3F8
+<<<85F004000505D8A5850420010110A0A5
+unknown package type
+>>>msg wake
+>>>msg brut F4F7
+<<<05040000000052A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut F5F6
+<<<4504010A7F7F09A54504010A7F7F09A5
+unknown package type
+>>>msg wake
+>>>msg brut F6F5
+<<<850404022302A7A5850404022302A7A5
+unknown package type
+>>>msg wake
+>>>msg brut F7F4
+<<<05040000000052A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut F8F3
+<<<45040000000012A545040000000012A5
+unknown package type
+>>>msg wake
+>>>msg brut F9F2
+<<<850400000000D2A5850400000000D2A5
+unknown package type
+>>>msg wake
+>>>msg brut FAF1
+<<<05F00400050558A505040000009AB8A5
+unknown package type
+>>>msg wake
+>>>msg brut FBF0
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut FCEF
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut FDEE
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut FEED
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<45F00400050518A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<85F004000505D8A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut FFEC
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2017.03.27 21:10:32 =~=~=~=~=~=~=~=~=~=~=~=
+Start
+>>>msg init
+>>>msg wake
+<<<A545F00300050519A545F00300050519
+check failed - status
+>>>msg wake
+>>>msg brut 00EB
+>>>msg wake
+>>>msg brut 01EA
+>>>msg wake
+>>>msg brut 02E9
+>>>msg wake
+>>>msg brut 03E8
+<<<45F00300060617A545F00300060617A5
+unknown package type
+>>>msg wake
+>>>msg brut 04E7
+<<<45F00400060616A545F00400060616A5
+unknown package type
+>>>msg wake
+>>>msg brut 05E6
+>>>msg wake
+>>>msg brut 06E5
+checksum does not match
+>>>msg wake
+>>>msg brut 07E4
+<<<45F00400060616A545F00400060616A5
+unknown package type
+>>>msg wake
+>>>msg brut 08E3
+>>>msg wake
+>>>msg brut 09E2
+>>>msg wake
+>>>msg brut 0AE1
+>>>msg wake
+>>>msg brut 0BE0
+<<<45F004A0060676A545F004A0060676A5
+unknown package type
+>>>msg wake
+>>>msg brut 0CDF
+<<<45F004A806066EA545F00400060616A5
+unknown package type
+>>>msg wake
+>>>msg brut 0DDE
+<<<45F00300060617A545F00300060617A5
+unknown package type
+>>>msg wake
+>>>msg brut 0EDD
+<<<45F00481060695A545F00481060695A5
+unknown package type
+>>>msg wake
+>>>msg brut 0FDC
+>>>msg wake
+>>>msg brut 10DB
+>>>msg wake
+>>>msg brut 11DA
+>>>msg wake
+>>>msg brut 12D9
+>>>msg wake
+>>>msg brut 13D8
+>>>msg wake
+>>>msg brut 14D7
+<<<45F00481060695A545F004A1060675A5
+unknown package type
+>>>msg wake
+>>>msg brut 15D6
+<<<45F0048906068DA545F0048906068DA5
+unknown package type
+>>>msg wake
+>>>msg brut 16D5
+<<<45F004A906066DA545F00400060616A5
+unknown package type
+>>>msg wake
+>>>msg brut 17D4
+<<<45F00300060617A545F00300060617A5
+unknown package type
+>>>msg wake
+>>>msg brut 18D3
+<<<45F004B0060666A545F004B0060666A5
+unknown package type
+>>>msg wake
+>>>msg brut 19D2
+<<<45F0049806067EA545F0049806067EA5
+unknown package type
+>>>msg wake
+>>>msg brut 1AD1
+<<<45F004B806065EA545F004B806065EA5
+unknown package type
+>>>msg wake
+>>>msg brut 1BD0
+<<<45F004B806065EA545010101100102A5
+unknown package type
+>>>msg wake
+>>>msg brut 1CCF
+<<<85F004B806061EA585F004B806061EA5
+unknown package type
+>>>msg wake
+>>>msg brut 1DCE
+>>>msg wake
+>>>msg brut 1ECD
+>>>msg wake
+>>>msg brut 1FCC
+>>>msg wake
+>>>msg brut 20CB
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 21CA
+<<<05F00400070754A505F00400070754A5
+unknown package type
+>>>msg wake
+>>>msg brut 22C9
+<<<05F00400070754A505F00400080852A5
+unknown package type
+>>>msg wake
+>>>msg brut 23C8
+<<<05F00400080852A505F00400080852A5
+unknown package type
+>>>msg wake
+>>>msg brut 24C7
+>>>msg wake
+>>>msg brut 25C6
+>>>msg wake
+>>>msg brut 26C5
+>>>msg wake
+>>>msg brut 27C4
+>>>msg wake
+>>>msg brut 28C3
+>>>msg wake
+>>>msg brut 29C2
+>>>msg wake
+>>>msg brut 2AC1
+>>>msg wake
+>>>msg brut 2BC0
+>>>msg wake
+>>>msg brut 2CBF
+>>>msg wake
+>>>msg brut 2DBE
+>>>msg wake
+>>>msg brut 2EBD
+checksum does not match
+>>>msg wake
+>>>msg brut 2FBC
+<<<05F00400080852A505F00400080852A5
+unknown package type
+>>>msg wake
+>>>msg brut 30BB
+>>>msg wake
+>>>msg brut 31BA
+>>>msg wake
+>>>msg brut 32B9
+>>>msg wake
+>>>msg brut 33B8
+<<<05042001011020A505042001011020A5
+unknown package type
+>>>msg wake
+>>>msg brut 34B7
+<<<45040000000012A545040000000012A5
+unknown package type
+>>>msg wake
+>>>msg brut 35B6
+<<<8504010A7F7FC9A58504010A7F7FC9A5
+unknown package type
+>>>msg wake
+>>>msg brut 36B5
+<<<05040402230227A505040402230227A5
+unknown package type
+>>>msg wake
+>>>msg brut 37B4
+<<<45040000000012A545040000000012A5
+unknown package type
+>>>msg wake
+>>>msg brut 38B3
+<<<850400000000D2A5850400000000D2A5
+unknown package type
+>>>msg wake
+>>>msg brut 39B2
+<<<05040000000052A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut 3AB1
+<<<45040000009A78A545040000009A78A5
+unknown package type
+>>>msg wake
+>>>msg brut 3BB0
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 3CAF
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut 3DAE
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 3EAD
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 3FAC
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut 40AB
+<<<45FF0100100006A545FF0100100006A5
+unknown package type
+>>>msg wake
+>>>msg brut 41AA
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 42A9
+<<<05FF0100100046A505FF0100100046A5
+unknown package type
+>>>msg wake
+>>>msg brut 43A8
+<<<45F00400080812A545F00400080812A5
+unknown package type
+>>>msg wake
+>>>msg brut 44A7
+>>>msg wake
+>>>msg brut 45A6
+>>>msg wake
+>>>msg brut 46A5
+>>>msg wake
+>>>msg brut 47A4
+>>>msg wake
+>>>msg brut 48A3
+>>>msg wake
+>>>msg brut 49A2
+checksum does not match
+>>>msg wake
+>>>msg brut 4AA1
+<<<45F00400080812A545F00400080812A5
+unknown package type
+>>>msg wake
+>>>msg brut 4BA0
+<<<45F00400080812A545F004A0080872A5
+unknown package type
+>>>msg wake
+>>>msg brut 4C9F
+<<<45F004A808086AA545F004A808086AA5
+unknown package type
+>>>msg wake
+>>>msg brut 4D9E
+<<<45F004B808085AA545F004B808085AA5
+unknown package type
+>>>msg wake
+>>>msg brut 4E9D
+<<<45F004B9080859A545F004B9080859A5
+unknown package type
+>>>msg wake
+>>>msg brut 4F9C
+>>>msg wake
+>>>msg brut 509B
+>>>msg wake
+>>>msg brut 519A
+>>>msg wake
+>>>msg brut 5299
+>>>msg wake
+>>>msg brut 5398
+<<<45F00300080813A545F00300080813A5
+unknown package type
+>>>msg wake
+>>>msg brut 5497
+<<<45F004A0080872A545F004A0080872A5
+unknown package type
+>>>msg wake
+>>>msg brut 5596
+<<<45F0048808088AA545F0048808088AA5
+unknown package type
+>>>msg wake
+>>>msg brut 5695
+<<<45F004A808086AA545F004A808086AA5
+unknown package type
+>>>msg wake
+>>>msg brut 5794
+<<<45F004A808086AA545F00490080882A5
+unknown package type
+>>>msg wake
+>>>msg brut 5893
+<<<45F004B0080862A545F004B0080862A5
+unknown package type
+>>>msg wake
+>>>msg brut 5992
+<<<45F0049808087AA545F0049808087AA5
+unknown package type
+>>>msg wake
+>>>msg brut 5A91
+<<<45F004B808085AA545F004B808085AA5
+unknown package type
+>>>msg wake
+>>>msg brut 5B90
+<<<45010101100102A545010101100102A5
+unknown package type
+>>>msg wake
+>>>msg brut 5C8F
+checksum does not match
+>>>msg wake
+>>>msg brut 5D8E
+checksum does not match
+>>>msg wake
+>>>msg brut 5E8D
+<<<85F004000808D2A585F004000808D2A5
+unknown package type
+>>>msg wake
+>>>msg brut 5F8C
+>>>msg wake
+>>>msg brut 608B
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 618A
+<<<05F00400090950A505F00400090950A5
+unknown package type
+>>>msg wake
+>>>msg brut 6289
+<<<05F004000A0A4EA505F004000A0A4EA5
+unknown package type
+>>>msg wake
+>>>msg brut 6388
+>>>msg wake
+>>>msg brut 6487
+>>>msg wake
+>>>msg brut 6586
+>>>msg wake
+>>>msg brut 6685
+>>>msg wake
+>>>msg brut 6784
+>>>msg wake
+>>>msg brut 6883
+>>>msg wake
+>>>msg brut 6982
+>>>msg wake
+>>>msg brut 6A81
+>>>msg wake
+>>>msg brut 6B80
+>>>msg wake
+>>>msg brut 6C7F
+<<<05F003000A0A4FA505F003000A0A4FA5
+unknown package type
+>>>msg wake
+>>>msg brut 6D7E
+<<<05F004000A0A4EA505F004000A0A4EA5
+unknown package type
+>>>msg wake
+>>>msg brut 6E7D
+>>>msg wake
+>>>msg brut 6F7C
+>>>msg wake
+>>>msg brut 707B
+checksum does not match
+>>>msg wake
+>>>msg brut 717A
+<<<05F004000A0A4EA505F004000A0A4EA5
+unknown package type
+>>>msg wake
+>>>msg brut 7279
+>>>msg wake
+>>>msg brut 7378
+<<<05042001011020A505042001011020A5
+unknown package type
+>>>msg wake
+>>>msg brut 7477
+<<<45040000000012A545040000000012A5
+unknown package type
+>>>msg wake
+>>>msg brut 7576
+<<<8504010A7F7FC9A58504010A7F7FC9A5
+unknown package type
+>>>msg wake
+>>>msg brut 7675
+<<<05040402230227A505040402230227A5
+unknown package type
+>>>msg wake
+>>>msg brut 7774
+<<<45040000000012A545040000000012A5
+unknown package type
+>>>msg wake
+>>>msg brut 7873
+<<<850400000000D2A5850400000000D2A5
+unknown package type
+>>>msg wake
+>>>msg brut 7972
+<<<05040000000052A505040000000052A5
+unknown package type
+>>>msg wake
+>>>msg brut 7A71
+<<<45040000009A78A545040000009A78A5
+unknown package type
+>>>msg wake
+>>>msg brut 7B70
+<<<85FF01001000C6A585FF01001000C6A5
+unknown package type
+>>>msg wake
+>>>msg brut 7C6F
