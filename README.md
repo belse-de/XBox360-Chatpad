@@ -40,11 +40,11 @@ https://github.com/csBlueChip/chatpad360
 
 #### Checksum Calculation
 
-'''c
+```c
 // calc checksum for compairision
 byte sum = 0;
 for( int i = 0; i < len - 1; i++){
   sum += buffer[2+i];
 }
 sum = (~sum + 1); // = sum * (-1)
-'''
+```
