@@ -10,9 +10,17 @@ int key_decode(byte* buffer, int len);
 static const int inBuffer_size = 16;
 
 int package_handle(){
+  const static byte package_start_len = 17;
+  static byte package_start[package_start_len] = 
+      { 0x0F, 0x1E, 0x2D, 0x3C, 
+        0x4B, 0x5A, 0x69, 0x78, 
+        0x87, 0x96, 0xA5, 0xB4, 
+        0xC3, 0xD2, 0xE1, 0xF0, 0x41};
   static byte inBuffer[inBuffer_size];
+  byte* inBuffer_pos;
   static int timeouts = 0;
   int result = 0;
+  byte sum;
   
   digitalWrite(led, HIGH);
   int len = Serial1.readBytes(inBuffer, inBuffer_size);
@@ -21,22 +29,65 @@ int package_handle(){
   // timeout
   if( 0 == len ) {
     // re init chatpad if 1 sec no communication happend; (Serial1.setTimeout(20) * 50) = 1000 ms 
-    if(50 < ++timeouts){ package_init(); timeouts = 0; }
+    if((1000/timeout_ms) < ++timeouts){ package_init(); timeouts = 0; }
     return FAILURE; 
   } else { 
     timeouts = 0;
   }
-  
-  result = package_check(inBuffer, len);
-  if(0 > result){ return FAILURE; }
-  // else new package with matching checksum
-  
-  Serial.print("<<<");
-  printHex( inBuffer, len);
-  Serial.println("");
-  
-  result = package_analyse(inBuffer, len);
-  if(0 > result){ return FAILURE; } 
+  Serial.print("<<<"); printHex( inBuffer_pos, len); Serial.println();
+  inBuffer_pos = inBuffer;
+
+pack_rehandle:
+  byte start_pos = len;
+  byte start_id = package_start_len;
+  bool found_id = false;
+  // find start
+  for( byte i=0; i<len; ++i){
+    for(byte h=0; h<package_start_len; ++h){
+      if(inBuffer_pos[i] == package_start[h]){
+        start_pos = i; start_id = h;
+        i = len; h = package_start_len;
+        found_id = true;
+      }
+    }
+  }
+
+
+  int real_len = len;
+  bool found_sum = false;
+  if(found_id){
+    Serial.print("   ");
+    for(int i=0; i<start_pos; ++i) Serial.print("  ");
+    Serial.print("^^");
+
+    real_len = len-start_pos;
+    if(real_len >= 2){
+      int expect_len = inBuffer_pos[start_pos+1] & 0x0F;
+
+      if( real_len >= (expect_len+3) ){
+        real_len = (expect_len+3);
+        found_sum = true;
+      }
+    }
+  }
+
+  if(found_sum){
+    for(int i=1; i<real_len-1; ++i) Serial.print("  ");
+    Serial.print("##");
+
+    // calc checksum and safe copy for next compairision
+    for( int i = 0; i < real_len - 1; i++){
+      sum += inBuffer_pos[start_pos+i];
+    }
+    sum = (~sum + 1); // = sum * (-1)
+  }
+
+   Serial.println();
+
+  if(len > start_pos + real_len) {
+    inBuffer_pos = &inBuffer_pos[start_pos + real_len];
+    goto pack_rehandle;
+  }
   
   return SUCCESS;
 }
@@ -46,6 +97,7 @@ int package_init(){
   Serial.println(">>>msg init");
   int len = Serial1.write((uint8_t*)msg_init, 5);
   if(5 != len){return FAILURE;}
+  Serial1.flush();
   return SUCCESS; 
 }
 
@@ -54,6 +106,7 @@ int package_wake(){
   Serial.println(">>>msg wake");
   int len = Serial1.write((uint8_t*)msg_wake, 5);
   if(5 != len){return FAILURE;}
+  Serial1.flush();
   return SUCCESS;
 }
 
