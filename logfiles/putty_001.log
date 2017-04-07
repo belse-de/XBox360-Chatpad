@@ -1,0 +1,962 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2017.03.28 00:06:32 =~=~=~=~=~=~=~=~=~=~=~=
+Start
+>>>msg init
+>>>msg wake
+>>>msg wake
+>>>msg brut 00
+>>>msg wake
+>>>msg brut 01
+>>>msg wake
+>>>msg brut 02
+>>>msg wake
+>>>msg brut 03
+<<<4102081101117D01000000A1C301013B
+checksum does not match
+>>>msg brut 04
+>>>msg wake
+>>>msg brut 05
+>>>msg wake
+>>>msg brut 06
+>>>msg wake
+>>>msg brut 07
+<<<4102081101117D01000000A1
+checksum does not match
+>>>msg wake
+<<<A545F00300000023
+<<<status - standby>>>msg wake
+ - light off - activations: 0
+>>>msg brut 08
+>>>msg wake
+<<<A545F003A0000083
+<<<status - standby>>>msg wake
+ - ???    03 - activations: 0
+>>>msg brut 09
+>>>msg wake
+<<<A545F003A800007B
+<<<status - standby>>>msg wake
+ - ???    03 - activations: 0
+>>>msg brut 0A
+>>>msg wake
+<<<A545F00390000093
+<<<status - standby>>>msg wake
+ - ???    03 - activations: 0
+>>>msg brut 0B
+>>>msg wake
+<<<A545F00391000092
+<<<status - standby>>>msg wake
+ - ???    03 - activations: 0
+>>>msg brut 0C
+>>>msg wake
+<<<A545F00391000092
+>>>msg brut 0D
+>>>msg wake
+>>>msg brut 0E
+<<<A545F00491000091
+<<<status - awake   - ???    04 - activations: 0
+>>>msg wake
+>>>msg brut 0F
+<<<A545F00491000091
+>>>msg wake
+>>>msg brut 10
+>>>msg wake
+<<<A545F004810000A1
+<<<status - awake   - ???    04 - activations: 0
+>>>msg brut 11
+>>>msg wake
+<<<A545F004A1000081
+<<<status - awake   - ???    04 - activations: 0
+>>>msg brut 12
+>>>msg wake
+<<<A545F00489000099
+<<<status - awake   - ???    04 - activations: 0
+>>>msg brut 13
+>>>msg wake
+<<<A545F004A9000079
+<<<status - awake   - ???    04 - activations: 0
+>>>msg brut 14
+>>>msg wake
+<<<A545F00491000091
+<<<status - awake   - ???    04 - activations: 0
+>>>msg brut 15
+>>>msg wake
+<<<A545F004B1000071
+<<<status - awake   - ???    04 - activations: 0
+>>>msg brut 16
+>>>msg wake
+<<<A545F00499000089
+<<<status - awake   - ???    04 - activations: 0
+>>>msg brut 17
+>>>msg wake
+<<<A545F004B9000069
+<<<status - awake   - ???    04 - activations: 0
+>>>msg brut 18
+<<<A545010101100102
+check failed - status
+>>>msg wake
+<<<A545010101100102
+>>>msg brut 19
+<<<A545010101100102
+>>>msg wake
+>>>msg brut 1A
+<<<A545010101100102
+>>>msg wake
+>>>msg brut 1B
+<<<A585F004B9000029
+check failed - status
+>>>msg wake
+>>>msg brut 1C
+>>>msg wake
+<<<A585F004B9000029
+>>>msg brut 1D
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 1E
+<<<A585FF01001000C6
+>>>msg wake
+>>>msg brut 1F
+<<<A505F004B90202A5
+check failed - status
+>>>msg wake
+>>>msg brut 20
+>>>msg wake
+<<<A505F004B90202A5
+>>>msg brut 21
+>>>msg wake
+>>>msg brut 22
+<<<A505F004B90202A5
+>>>msg wake
+>>>msg brut 23
+<<<A505F004B90202A5
+>>>msg wake
+>>>msg brut 24
+>>>msg wake
+<<<A505F004B90202A5
+>>>msg brut 25
+>>>msg wake
+>>>msg brut 26
+<<<A505F004B90202A5
+>>>msg wake
+>>>msg brut 27
+<<<A505F004B90202A5
+>>>msg wake
+>>>msg brut 28
+>>>msg wake
+<<<A505F004B90202A5
+>>>msg brut 29
+>>>msg wake
+>>>msg brut 2A
+<<<A505F004B90202A5
+>>>msg wake
+>>>msg brut 2B
+<<<A505F004B90202A5
+>>>msg wake
+>>>msg brut 2C
+>>>msg wake
+<<<A505F004B90202A5
+>>>msg brut 2D
+>>>msg wake
+>>>msg brut 2E
+<<<A505F004B90202A5
+>>>msg wake
+>>>msg brut 2F
+<<<A505F004B90202A5
+>>>msg wake
+>>>msg brut 30
+>>>msg wake
+<<<A505042001011020
+check failed - status
+>>>msg brut 31
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut 32
+<<<A545040000000012
+>>>msg wake
+<<<A58504010A7F7FC9
+check failed - status
+>>>msg brut 33
+<<<A505040402230227
+check failed - status
+>>>msg wake
+>>>msg brut 34
+<<<A505040402230227
+>>>msg wake
+<<<A545040000000012
+check failed - status
+>>>msg brut 35
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut 36
+<<<A5850400000000D2
+>>>msg wake
+<<<A505040000000052
+check failed - status
+>>>msg brut 37
+<<<A545040000009A78
+check failed - status
+>>>msg wake
+>>>msg brut 38
+<<<A545040000009A78
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut 39
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 3A
+<<<A505FF0100100046
+>>>msg wake
+<<<A545FF0100100006
+check failed - status
+>>>msg brut 3B
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 3C
+<<<A585FF01001000C6
+>>>msg wake
+<<<A505FF0100100046
+check failed - status
+>>>msg brut 3D
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 3E
+<<<A545FF0100100006
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut 3F
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 40
+<<<A505FF0100100046
+>>>msg wake
+<<<A505FF0100100046
+>>>msg brut 41
+<<<A505FF0100100046
+>>>msg wake
+>>>msg brut 42
+>>>msg wake
+<<<A545F0048102029D
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 43
+>>>msg wake
+<<<A545F0048002029E
+<<<status - awake   - light on  - activations: 2
+>>>msg brut 44
+>>>msg wake
+<<<A545F0048002029E
+>>>msg brut 45
+>>>msg wake
+>>>msg brut 46
+<<<A545F0048002029E
+>>>msg wake
+>>>msg brut 47
+<<<A545F0048002029E
+>>>msg wake
+>>>msg brut 48
+>>>msg wake
+<<<A545F004A002027E
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 49
+>>>msg wake
+<<<A545F004A8020276
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 4A
+>>>msg wake
+<<<A545F004B8020266
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 4B
+>>>msg wake
+<<<A545F004B9020265
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 4C
+>>>msg wake
+<<<A545F004B9020265
+>>>msg brut 4D
+>>>msg wake
+>>>msg brut 4E
+<<<A545F004B9020265
+>>>msg wake
+>>>msg brut 4F
+<<<A545F004B9020265
+>>>msg wake
+>>>msg brut 50
+>>>msg wake
+<<<A545F0048102029D
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 51
+>>>msg wake
+<<<A545F004A102027D
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 52
+>>>msg wake
+<<<A545F00489020295
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 53
+>>>msg wake
+<<<A545F004A9020275
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 54
+>>>msg wake
+<<<A545F0049102028D
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 55
+>>>msg wake
+<<<A545F004B102026D
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 56
+>>>msg wake
+<<<A545F00499020285
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 57
+>>>msg wake
+<<<A545F004B9020265
+<<<status - awake   - ???    04 - activations: 2
+>>>msg brut 58
+<<<A545010101100102
+check failed - status
+>>>msg wake
+<<<A545010101100102
+>>>msg brut 59
+<<<A545010101100102
+>>>msg wake
+>>>msg brut 5A
+<<<A545010101100102
+>>>msg wake
+>>>msg brut 5B
+<<<A585F004B9020225
+check failed - status
+>>>msg wake
+>>>msg brut 5C
+>>>msg wake
+<<<A585F004B9020225
+>>>msg brut 5D
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 5E
+<<<A585FF01001000C6
+>>>msg wake
+>>>msg brut 5F
+<<<A505F004B90404A1
+check failed - status
+>>>msg wake
+>>>msg brut 60
+>>>msg wake
+<<<A505F004B90404A1
+>>>msg brut 61
+>>>msg wake
+>>>msg brut 62
+<<<A505F004B90404A1
+>>>msg wake
+>>>msg brut 63
+<<<A505F004B90404A1
+>>>msg wake
+>>>msg brut 64
+>>>msg wake
+<<<A505F004B90404A1
+>>>msg brut 65
+>>>msg wake
+>>>msg brut 66
+<<<A505F004B90404A1
+>>>msg wake
+>>>msg brut 67
+<<<A505F004B90404A1
+>>>msg wake
+>>>msg brut 68
+>>>msg wake
+<<<A505F004B90404A1
+>>>msg brut 69
+>>>msg wake
+>>>msg brut 6A
+<<<A505F004B90404A1
+>>>msg wake
+>>>msg brut 6B
+<<<A505F004B90404A1
+>>>msg wake
+>>>msg brut 6C
+>>>msg wake
+<<<A505F004B90404A1
+>>>msg brut 6D
+>>>msg wake
+>>>msg brut 6E
+<<<A505F004B90404A1
+>>>msg wake
+>>>msg brut 6F
+<<<A505F004B90404A1
+>>>msg wake
+>>>msg brut 70
+>>>msg wake
+<<<A505042001011020
+check failed - status
+>>>msg brut 71
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut 72
+<<<A545040000000012
+>>>msg wake
+<<<A58504010A7F7FC9
+check failed - status
+>>>msg brut 73
+<<<A505040402230227
+check failed - status
+>>>msg wake
+>>>msg brut 74
+<<<A505040402230227
+>>>msg wake
+<<<A545040000000012
+check failed - status
+>>>msg brut 75
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut 76
+<<<A5850400000000D2
+>>>msg wake
+<<<A505040000000052
+check failed - status
+>>>msg brut 77
+<<<A545040000009A78
+check failed - status
+>>>msg wake
+>>>msg brut 78
+<<<A545040000009A78
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut 79
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 7A
+<<<A505FF0100100046
+>>>msg wake
+<<<A545FF0100100006
+check failed - status
+>>>msg brut 7B
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 7C
+<<<A585FF01001000C6
+>>>msg wake
+<<<A505FF0100100046
+check failed - status
+>>>msg brut 7D
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut 7E
+<<<A545FF0100100006
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut 7F
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut 80
+<<<A505FF0100100046
+>>>msg wake
+<<<A505FF0100100046
+>>>msg brut 81
+<<<A505FF0100100046
+>>>msg wake
+>>>msg brut 82
+>>>msg wake
+<<<A545F00481040499
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 83
+>>>msg wake
+<<<A545F0048004049A
+<<<status - awake   - light on  - activations: 4
+>>>msg brut 84
+>>>msg wake
+<<<A545F0048004049A
+>>>msg brut 85
+>>>msg wake
+>>>msg brut 86
+<<<A545F0048004049A
+>>>msg wake
+>>>msg brut 87
+<<<A545F0048004049A
+>>>msg wake
+>>>msg brut 88
+>>>msg wake
+<<<A545F004A004047A
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 89
+>>>msg wake
+<<<A545F004A8040472
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 8A
+>>>msg wake
+<<<A545F004B8040462
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 8B
+>>>msg wake
+<<<A545F004B9040461
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 8C
+>>>msg wake
+<<<A545F004B9040461
+>>>msg brut 8D
+>>>msg wake
+>>>msg brut 8E
+<<<A545F004B9040461
+>>>msg wake
+>>>msg brut 8F
+<<<A545F004B9040461
+>>>msg wake
+>>>msg brut 90
+>>>msg wake
+<<<A545F00481040499
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 91
+>>>msg wake
+<<<A545F004A1040479
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 92
+>>>msg wake
+<<<A545F00489040491
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 93
+>>>msg wake
+<<<A545F004A9040471
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 94
+>>>msg wake
+<<<A545F00491040489
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 95
+>>>msg wake
+<<<A545F004B1040469
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 96
+>>>msg wake
+<<<A545F00499040481
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 97
+>>>msg wake
+<<<A545F004B9040461
+<<<status - awake   - ???    04 - activations: 4
+>>>msg brut 98
+<<<A545010101100102
+check failed - status
+>>>msg wake
+<<<A545010101100102
+>>>msg brut 99
+<<<A545010101100102
+>>>msg wake
+>>>msg brut 9A
+<<<A545010101100102
+>>>msg wake
+>>>msg brut 9B
+<<<A585F004B9040421
+check failed - status
+>>>msg wake
+>>>msg brut 9C
+>>>msg wake
+<<<A585F004000404DA
+check failed - status
+>>>msg brut 9D
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut 9E
+<<<A585FF01001000C6
+>>>msg wake
+>>>msg brut 9F
+<<<A505F00300060657
+check failed - status
+>>>msg wake
+>>>msg brut A0
+>>>msg wake
+<<<A505F00300060657
+>>>msg brut A1
+>>>msg wake
+>>>msg brut A2
+<<<A505F00300060657
+>>>msg wake
+>>>msg brut A3
+<<<A505F00400060656
+check failed - status
+>>>msg wake
+>>>msg brut A4
+>>>msg wake
+<<<A505F00400060656
+>>>msg brut A5
+>>>msg wake
+>>>msg brut A6
+<<<A505F00400060656
+>>>msg wake
+>>>msg brut A7
+<<<A505F00400060656
+>>>msg wake
+>>>msg brut A8
+>>>msg wake
+<<<A505F00400060656
+>>>msg brut A9
+>>>msg wake
+>>>msg brut AA
+<<<A505F00400060656
+>>>msg wake
+>>>msg brut AB
+<<<A505F00400060656
+>>>msg wake
+>>>msg brut AC
+>>>msg wake
+<<<A505F00400060656
+>>>msg brut AD
+>>>msg wake
+>>>msg brut AE
+<<<A505F00400060656
+>>>msg wake
+>>>msg brut AF
+<<<A505F00400060656
+>>>msg wake
+>>>msg brut B0
+>>>msg wake
+<<<A505042001011020
+check failed - status
+>>>msg brut B1
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut B2
+<<<A545040000000012
+>>>msg wake
+<<<A58504010A7F7FC9
+check failed - status
+>>>msg brut B3
+<<<A505040402230227
+check failed - status
+>>>msg wake
+>>>msg brut B4
+<<<A505040402230227
+>>>msg wake
+<<<A545040000000012
+check failed - status
+>>>msg brut B5
+<<<A5850400000000D2
+check failed - status
+>>>msg wake
+>>>msg brut B6
+<<<A5850400000000D2
+>>>msg wake
+<<<A505040000000052
+check failed - status
+>>>msg brut B7
+<<<A545040000009A78
+check failed - status
+>>>msg wake
+>>>msg brut B8
+<<<A545040000009A78
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut B9
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut BA
+<<<A505FF0100100046
+>>>msg wake
+<<<A545FF0100100006
+check failed - status
+>>>msg brut BB
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut BC
+<<<A585FF01001000C6
+>>>msg wake
+<<<A505FF0100100046
+check failed - status
+>>>msg brut BD
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut BE
+<<<A545FF0100100006
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut BF
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut C0
+<<<A505FF0100100046
+>>>msg wake
+<<<A505FF0100100046
+>>>msg brut C1
+<<<A505FF0100100046
+>>>msg wake
+>>>msg brut C2
+>>>msg wake
+<<<A545F00400060616
+<<<status - awake   - light off - activations: 6
+>>>msg brut C3
+>>>msg wake
+<<<A545F00400060616
+>>>msg brut C4
+>>>msg wake
+>>>msg brut C5
+<<<A545F00400060616
+>>>msg wake
+>>>msg brut C6
+<<<A545F00400060616
+>>>msg wake
+>>>msg brut C7
+>>>msg wake
+<<<A545F00400060616
+>>>msg brut C8
+>>>msg wake
+>>>msg brut C9
+<<<A545F004A0060676
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut CA
+<<<A545F004B806065E
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut CB
+<<<A545F004B906065D
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut CC
+<<<A545F004B906065D
+>>>msg wake
+>>>msg brut CD
+>>>msg wake
+<<<A545F004B906065D
+>>>msg brut CE
+>>>msg wake
+>>>msg brut CF
+<<<A545F004B906065D
+>>>msg wake
+>>>msg brut D0
+<<<A545F00481060695
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut D1
+<<<A545F004A1060675
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut D2
+<<<A545F0048906068D
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut D3
+<<<A545F004A906066D
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut D4
+<<<A545F00491060685
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut D5
+<<<A545F004B1060665
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut D6
+<<<A545F0049906067D
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut D7
+<<<A545F004B906065D
+<<<status - awake   - ???    04 - activations: 6
+>>>msg wake
+>>>msg brut D8
+<<<A545010101100102
+check failed - status
+>>>msg wake
+>>>msg brut D9
+<<<A545010101100102
+>>>msg wake
+<<<A545010101100102
+>>>msg brut DA
+<<<A545010101100102
+>>>msg wake
+>>>msg brut DB
+>>>msg wake
+<<<A585F004B906061D
+check failed - status
+>>>msg brut DC
+>>>msg wake
+>>>msg brut DD
+<<<A585F004B906061D
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut DE
+>>>msg wake
+>>>msg brut DF
+<<<A505F004B9080899
+check failed - status
+>>>msg wake
+>>>msg brut E0
+<<<A505F004B9080899
+>>>msg wake
+>>>msg brut E1
+>>>msg wake
+<<<A505F004B9080899
+>>>msg brut E2
+>>>msg wake
+>>>msg brut E3
+<<<A505F004B9080899
+>>>msg wake
+>>>msg brut E4
+<<<A505F004B9080899
+>>>msg wake
+>>>msg brut E5
+>>>msg wake
+<<<A505F004B9080899
+>>>msg brut E6
+>>>msg wake
+>>>msg brut E7
+<<<A505F004B9080899
+>>>msg wake
+>>>msg brut E8
+<<<A505F004B9080899
+>>>msg wake
+>>>msg brut E9
+>>>msg wake
+<<<A505F004B9080899
+>>>msg brut EA
+>>>msg wake
+>>>msg brut EB
+<<<A505F004B9080899
+>>>msg wake
+>>>msg brut EC
+<<<A505F004B9080899
+>>>msg wake
+>>>msg brut ED
+>>>msg wake
+<<<A505F004B9080899
+>>>msg brut EE
+>>>msg wake
+>>>msg brut EF
+<<<A505F004B9080899
+>>>msg wake
+>>>msg brut F0
+<<<A505042001011020
+check failed - status
+>>>msg wake
+>>>msg brut F1
+<<<A505042001011020
+>>>msg wake
+<<<A545040000000012
+check failed - status
+>>>msg brut F2
+<<<A58504010A7F7FC9
+check failed - status
+>>>msg wake
+>>>msg brut F3
+<<<A58504010A7F7FC9
+>>>msg wake
+<<<A505040402230227
+check failed - status
+>>>msg brut F4
+<<<A545040000000012
+check failed - status
+>>>msg wake
+>>>msg brut F5
+<<<A545040000000012
+>>>msg wake
+<<<A5850400000000D2
+check failed - status
+>>>msg brut F6
+<<<A505040000000052
+check failed - status
+>>>msg wake
+>>>msg brut F7
+<<<A505040000000052
+>>>msg wake
+<<<A545040000009A78
+check failed - status
+>>>msg brut F8
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut F9
+<<<A585FF01001000C6
+>>>msg wake
+<<<A505FF0100100046
+check failed - status
+>>>msg brut FA
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FB
+<<<A545FF0100100006
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut FC
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FD
+<<<A505FF0100100046
+>>>msg wake
+<<<A545FF0100100006
+check failed - status
+>>>msg brut FE
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FF
+<<<A585FF01001000C6
+>>>msg wake
+<<<A505FF0100100046
+check failed - status
+>>>msg brut FF
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FF
+<<<A545FF0100100006
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut FF
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FF
+<<<A505FF0100100046
+>>>msg wake
+<<<A545FF0100100006
+check failed - status
+>>>msg brut FF
+<<<A585FF01001000C6
+check failed - status
+>>>msg wake
+>>>msg brut FF
+<<<A585FF01001000C6
+>>>msg wake
+<<<A505FF0100100046
+check failed - status
+>>>msg brut FF
+<<<A545FF0100100006
+check failed - status
+>>>msg wake
+>>>msg brut FF
+<<<A545FF0100100006
+>>>msg wake
+<<<A585FF01001000C6
+check failed - status
+>>>msg brut FF
+<<<A505FF0100100046
+check failed - status
+>>>msg wake
+>>>msg brut FF
