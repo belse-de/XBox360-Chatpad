@@ -38,6 +38,12 @@ https://github.com/csBlueChip/chatpad360
 
 ### Protocol
 
+#### Structure
+
+| Type          | Header | Data  | Checksum |
+|:--------------|:-------|:------|:---------|
+| Length [Byte] | 2      | 0 - 5 | (1)      |
+
 #### Checksum Calculation
 
 ```c

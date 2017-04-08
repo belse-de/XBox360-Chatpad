@@ -323,7 +323,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<start
+<<<start
+
 >>>87 02 8C 00 EB 
 ---msg brut 00 
 
@@ -489,7 +490,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 01 EA 
 ---msg brut 01 
 
@@ -682,7 +684,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 02 E9 
 ---msg brut 02 
 
@@ -785,7 +788,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 03 E8 
 ---msg brut 03 
 
@@ -840,7 +844,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 04 E7 
 ---msg brut 04 
 
@@ -889,7 +894,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 05 E6 
 ---msg brut 05 
 
@@ -1039,7 +1045,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 06 E5 
 ---msg brut 06 
 
@@ -1139,7 +1146,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 07 E4 
 ---msg brut 07 
 
@@ -1227,7 +1235,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 08 E3 
 ---msg brut 08 
 
@@ -1308,7 +1317,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<light
+<<<light
+
 >>>87 02 8C 09 E2 
 ---msg brut 09 
 
@@ -1432,7 +1442,8 @@ Init
 ---awake no  - light off - activations: 11
 >>>87 02 8C 1B D0 
 ---msg wake
-<<<light
+<<<light
+
 >>>87 02 8C 0A E1 
 ---msg brut 0A 
 
@@ -1559,7 +1570,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<light
+<<<light
+
 >>>87 02 8C 0B E0 
 ---msg brut 0B 
 
@@ -1689,7 +1701,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<light
+<<<light
+
 >>>87 02 8C 0C DF 
 ---msg brut 0C 
 
@@ -1813,7 +1826,8 @@ Init
 ---awake no  - light off - activations: 11
 >>>87 02 8C 1B D0 
 ---msg wake
-<<<light
+<<<light
+
 >>>87 02 8C 0D DE 
 ---msg brut 0D 
 
@@ -1928,7 +1942,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 0E DD 
 ---msg brut 0E 
 
@@ -2028,7 +2043,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 0F DC 
 ---msg brut 0F 
 
@@ -2098,7 +2114,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 10 DB 
 ---msg brut 10 
 
@@ -2176,7 +2193,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 11 DA 
 ---msg brut 11 
 
@@ -2246,7 +2264,8 @@ Init
 <<<A5 85 F0 04 A0 0B 0B 2C 
 ---status
 ---awake yes - light ??? - activations: 11
-<<<light
+<<<light
+
 >>>87 02 8C 12 D9 
 ---msg brut 12 
 
@@ -2397,7 +2416,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<light
+<<<light
+
 >>>87 02 8C 13 D8 
 ---msg brut 13 
 
@@ -2527,7 +2547,8 @@ Init
 <<<A5 85 F0 04 90 0B 0B 3C 
 ---status
 ---awake yes - light ??? - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 15 D6 
 ---msg brut 15 
 
@@ -2894,7 +2915,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 16 D5 
 ---msg brut 16 
 
@@ -2988,7 +3010,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<light
+<<<light
+
 >>>87 02 8C 17 D4 
 ---msg brut 17 
 
@@ -3138,7 +3161,8 @@ Init
 <<<A5 85 F0 04 00 0B 0B CC 
 ---status
 ---awake yes - light off - activations: 11
-<<<light
+<<<light
+
 >>>87 02 8C 18 D3 
 ---msg brut 18 
 
@@ -3376,7 +3400,8 @@ Init
 <<<A5 05 F0 04 00 0B 0B 4C 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 19 D2 
 ---msg brut 19 
 
@@ -3490,7 +3515,8 @@ Init
 <<<A5 05 F0 04 00 0B 0B 4C 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 1A D1 
 ---msg brut 1A 
 
@@ -3689,7 +3715,8 @@ Init
 <<<A5 05 F0 04 00 0B 0B 4C 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 1B D0 
 ---msg brut 1B 
 
@@ -3717,7 +3744,8 @@ Init
 <<<A5 05 F0 04 00 0B 0B 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 1C CF 
 ---msg brut 1C 
 
@@ -3870,7 +3898,8 @@ Init
 <<<A5 05 F0 04 00 0B 0B 4C 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
 >>>87 02 8C 1D CE 
 ---msg brut 1D 
 
@@ -4006,7 +4035,61 @@ Init
 <<<A5 45 F0 04 00 0B 0B 0C 
 ---status
 ---awake yes - light off - activations: 11
-<<<
+<<<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >>>87 02 8C 1E CD 
 ---msg brut 1E 
 
@@ -4092,7 +4175,9 @@ Init
 <<<A5 45 F0 04 00 0C 0C 0A 
 ---status
 ---awake yes - light off - activations: 12
-<<<
+<<<
+
+
 >>>87 02 8C 1F CC 
 ---msg brut 1F 
 
