@@ -7,41 +7,25 @@ int package_wake();
 //                0F 0F - init count
 
 int status_decode(byte* buffer, int len){
-  Serial.print("<<<status"); 
-  int result = 0;
+
   
-  switch(buffer[0]){
-    case 0x03:
-      Serial.print(" - standby");
-      result += package_wake();
-      break;
-    case 0x04:
-      Serial.print(" - awake  ");
-      break;
-    default:
-      Serial.print(" - ???  ");
-      printHex( &buffer[0], 1);
-      break;
-  }
-  
-  switch(buffer[1]){
-    case 0x00:
-      Serial.print(" - light off");
-      break;
-    case 0x80:
-      Serial.print(" - light on ");
-      break;
-    default:
-      Serial.print(" - ???    ");
-      printHex( &buffer[0], 1);
-      break;
-  }
-  
+  Serial.print("---status"); 
+  Serial.print(" - awake ");
+  Serial.print( ((buffer[3] & 0x0F) == 0x03) ? "no " : ((buffer[3] & 0x0F) == 0x04) ? "yes" : "???" );
+  Serial.print(" - light ");
+  Serial.print( ((buffer[4] & 0xF0) == 0x00) ? "off" : ((buffer[4] & 0xF0) == 0x80) ? "on " : "???" );
   Serial.print(" - activations: ");
-  Serial.print((int) buffer[2]);
-  if(buffer[2] != buffer[3]){ result--; }
-  
+  Serial.print((int) buffer[5]);
   Serial.println("");
-  return result;
+
+  // assert(buffer[5] != buffer[6])
+  
+  switch(buffer[3] & 0x0F){
+    case 0x03:
+      package_wake();
+      break;
+  }
+
+  return SUCCESS;
 } 
 

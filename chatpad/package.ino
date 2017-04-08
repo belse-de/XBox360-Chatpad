@@ -23,7 +23,7 @@ int package_handle(){
     byte front = Serial1.peek();
     byte masked_pos = ((front >> 4) & 0x0F);
     if( package_start[masked_pos] == front or start_version == front ) break;
-    Serial1.read();
+    if(Serial1.read() == -1) return FAILURE;
   }
 
   static const byte in_buffer_size = 16;
@@ -37,6 +37,7 @@ int package_handle(){
   digitalWrite(led, HIGH);
   if( Serial1.available() ){
     in_buffer[0] = Serial1.peek();
+    
   
     if( in_buffer[0] == start_version){
         in_buffer_len = Serial1.readBytes(in_buffer, 12);
@@ -67,6 +68,7 @@ int package_handle(){
           sum = (~sum + 1); // = sum * (-1)
           if( sum == in_buffer[in_buffer_len-1]) return FAILURE;
           Serial.print("<<<"); printHex( in_buffer, in_buffer_len); Serial.println();
+          if(in_buffer[0] == 0xA5) status_decode( in_buffer, in_buffer_len );
         }
       } else {
         in_buffer_len = Serial1.readBytes(in_buffer, in_buffer_size);
@@ -81,45 +83,37 @@ int package_handle(){
 
 int package_init(){
   static const char* msg_init = "\x87\x02\x8C\x1F\xCC";
-  Serial.println(">>>msg init");
   int len = Serial1.write((uint8_t*)msg_init, 5);
   if(5 != len){return FAILURE;}
   Serial1.flush();
+  Serial.print(">>>"); printHex( (uint8_t*)msg_init, 5); Serial.println();
+  Serial.println("---msg init");
   return SUCCESS; 
 }
 
 int package_wake(){
   static const char* msg_wake = "\x87\x02\x8C\x1B\xD0";
-  Serial.println(">>>msg wake");
   int len = Serial1.write((uint8_t*)msg_wake, 5);
   if(5 != len){return FAILURE;}
   Serial1.flush();
+  Serial.print(">>>"); printHex( (uint8_t*)msg_wake, 5); Serial.println();
+  Serial.println("---msg wake");
   return SUCCESS;
 }
 
 int package_analyse(byte* buffer, int len){
   switch(buffer[0]){
     case 0xA5: // status
-      if(0 > status_check(buffer, len)){ 
-        Serial.println("check failed - status");
-        goto error; 
-      }
-      if(0 > status_decode(&buffer[3], len - 4)){ goto error; }
+    Serial.println("---status");
+      status_decode(buffer, len);
       break;
     case 0xB4: // key press
-      if(0 > key_check(buffer, len)){ 
-        Serial.println("check failed - key"); 
-        goto error;
-      }
-      if(0 > key_decode(&buffer[3], len - 4)){ goto error; }
+      Serial.println("---key press");
       break;
     default:  // unknown
-      Serial.println("unknown package type");
-      goto error;
+      Serial.println("---unknown package type");
       break;
   }
   
   return SUCCESS;
-error:  
-  return FAILURE;
 }

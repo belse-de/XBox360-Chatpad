@@ -3,5 +3,6 @@ void printHex(byte* buffer, int len){
     uint8_t nr = buffer[i];
     if(nr < 0x10) { Serial.print("0"); }
     Serial.print(nr, HEX); 
+    Serial.print(' ');
   }
 }
