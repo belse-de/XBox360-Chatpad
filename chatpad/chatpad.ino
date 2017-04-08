@@ -65,10 +65,6 @@ void loop() {
       
       if(msg_brut[3] <= 254) ++msg_brut[3];
     }
-
+     while( package_handle() == SUCCESS );
   }
-  
-  while( package_handle() == SUCCESS );
-
-  
 }

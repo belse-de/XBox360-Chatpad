@@ -1,0 +1,4590 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2017.04.08 13:20:20 =~=~=~=~=~=~=~=~=~=~=~=
+ === SETUP ===================================================================================
+Init
+---Start
+>>>87 02 8C 1F CC 
+---msg init
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0A 0A CF 
+---status
+---awake no  - light off - activations: 10
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0A 0A CF 
+---status
+---awake no  - light off - activations: 10
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0A 0A CF 
+---status
+---awake no  - light off - activations: 10
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0A 0A CF 
+---status
+---awake no  - light off - activations: 10
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0A 0A CF 
+---status
+---awake no  - light off - activations: 10
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0A 0A CF 
+---status
+---awake no  - light off - activations: 10
+>>>87 02 8C 1B D0 
+---msg wake
+=== LOOP ====================================================================================
+<<<41 02 08 11 01 11 7D 01 00 00 00 A1 
+---unknown package type
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<41 02 08 11 01 11 7D 01 00 00 00 A1 
+---unknown package type
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<start
+>>>87 02 8C 00 EB 
+---msg brut 00 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 01 EA 
+---msg brut 01 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 02 E9 
+---msg brut 02 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 03 E8 
+---msg brut 03 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 04 E7 
+---msg brut 04 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 05 E6 
+---msg brut 05 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B A5 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<F0 03 00 0B 0B CD 
+---unknown package type
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 06 E5 
+---msg brut 06 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 07 E4 
+---msg brut 07 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 08 E3 
+---msg brut 08 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B A5 
+---status
+---awake yes - light off - activations: 11
+<<<F0 04 A0 0B 0B 2C 
+---unknown package type
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<light
+>>>87 02 8C 09 E2 
+---msg brut 09 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 88 0B 0B 44 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<light
+>>>87 02 8C 0A E1 
+---msg brut 0A 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<light
+>>>87 02 8C 0B E0 
+---msg brut 0B 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 81 0B 0B 4B 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<light
+>>>87 02 8C 0C DF 
+---msg brut 0C 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 80 0B 0B 4C 
+---status
+---awake yes - light on  - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<light
+>>>87 02 8C 0D DE 
+---msg brut 0D 
+
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 0E DD 
+---msg brut 0E 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 0F DC 
+---msg brut 0F 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 10 DB 
+---msg brut 10 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 11 DA 
+---msg brut 11 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<light
+>>>87 02 8C 12 D9 
+---msg brut 12 
+
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 2C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 A0 0B 0B 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 03 88 0B 0B 45 
+---status
+---awake no  - light on  - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<light
+>>>87 02 8C 13 D8 
+---msg brut 13 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 A8 0B 0B 25 
+---status
+---awake no  - light ??? - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 A8 0B 0B 25 
+---status
+---awake no  - light ??? - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 A8 0B 0B 25 
+---status
+---awake no  - light ??? - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<light
+>>>87 02 8C 14 D7 
+---msg brut 14 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<
+>>>87 02 8C 15 D6 
+---msg brut 15 
+
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 3C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 90 0B 0B 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B0 0B 0B 1C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B0 0B 0B 1C 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 16 D5 
+---msg brut 16 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 98 0B 0B 34 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 98 0B 0B 34 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 98 0B 0B 34 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 98 0B 0B 34 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 98 0B 0B 34 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 98 0B 0B 34 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<light
+>>>87 02 8C 17 D4 
+---msg brut 17 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B A5 
+---status
+---awake yes - light off - activations: 11
+<<<F0 04 B8 0B 0B 14 
+---unknown package type
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 B8 0B 0B 14 
+---status
+---awake yes - light ??? - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 03 00 0B 0B CD 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<light
+>>>87 02 8C 18 D3 
+---msg brut 18 
+
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B CC 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 85 01 01 01 10 01 C2 
+---status
+---awake ??? - light off - activations: 16
+<<<A5 85 01 01 01 10 01 C2 
+---status
+---awake ??? - light off - activations: 16
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 19 D2 
+---msg brut 19 
+
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 00 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 1A D1 
+---msg brut 1A 
+
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 1B D0 
+---msg brut 1B 
+
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 1C CF 
+---msg brut 1C 
+
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 03 00 0B 0B 4D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 1D CE 
+---msg brut 1D 
+
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 4C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 05 FF 01 00 10 00 46 
+---status
+---awake ??? - light off - activations: 16
+<<<A5 05 FF 01 00 10 00 46 
+---status
+---awake ??? - light off - activations: 16
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 03 00 0B 0B 0D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0B 0B 0D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0B 0B 0D 
+---status
+---awake no  - light off - activations: 11
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<
+>>>87 02 8C 1E CD 
+---msg brut 1E 
+
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 0C 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 04 00 0B 0B 
+---status
+---awake yes - light off - activations: 11
+<<<A5 45 F0 03 00 0C 0C 0B 
+---status
+---awake no  - light off - activations: 12
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0C 0C 0B 
+---status
+---awake no  - light off - activations: 12
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0C 0C 0B 
+---status
+---awake no  - light off - activations: 12
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0C 0C 0B 
+---status
+---awake no  - light off - activations: 12
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0C 0C 0B 
+---status
+---awake no  - light off - activations: 12
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<
+>>>87 02 8C 1F CC 
+---msg brut 1F 
+
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 0A 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0C 0C 
+---status
+---awake yes - light off - activations: 12
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 03 00 0D 0D 09 
+---status
+---awake no  - light off - activations: 13
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0D 0D 09 
+---status
+---awake no  - light off - activations: 13
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0D 0D 09 
+---status
+---awake no  - light off - activations: 13
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 03 00 0D 0D 09 
+---status
+---awake no  - light off - activations: 13
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0D 0D 09 
+---status
+---awake no  - light off - activations: 13
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0D 0D 09 
+---status
+---awake no  - light off - activations: 13
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0D 0D 09 
+---status
+---awake no  - light off - activations: 13
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0D 0D 09 
+---status
+---awake no  - light off - activations: 13
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 03 00 0D 0D 09 
+---status
+---awake no  - light off - activations: 13
+>>>87 02 8C 1B D0 
+---msg wake
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
+<<<A5 45 F0 04 00 0D 0D 08 
+---status
+---awake yes - light off - activations: 13
