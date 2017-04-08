@@ -17,23 +17,25 @@ int package_handle(){
         0x87, 0x96, 0xA5, 0xB4, 
         0xC3, 0xD2, 0xE1, 0xF0};
   const static byte start_version = 0x41;
-        
+  
+  static const byte in_buffer_size = 32;
+  byte in_buffer_len = 0;
+  static byte in_buffer[in_buffer_size];
+
+  static int timeouts = 0;
+  byte read_bytes = 0;
+  byte sum;
+
   // throw away bytes until we hit a start byte
   while( Serial1.available() ){
     byte front = Serial1.peek();
     byte masked_pos = ((front >> 4) & 0x0F);
     if( package_start[masked_pos] == front or start_version == front ) break;
-    if(Serial1.read() == -1) return FAILURE;
+    int read_front = Serial1.read();
+    if(read_front == -1) return FAILURE;
   }
-
-  static const byte in_buffer_size = 16;
-  static byte in_buffer_len = 0;
-  static byte in_buffer[in_buffer_size];
   
   // detect legth and read the rest of the package
-  static int timeouts = 0;
-  byte read_bytes = 0;
-  byte sum;
   digitalWrite(led, HIGH);
   if( Serial1.available() ){
     in_buffer[0] = Serial1.peek();
@@ -41,25 +43,22 @@ int package_handle(){
   
     if( in_buffer[0] == start_version){
         in_buffer_len = Serial1.readBytes(in_buffer, 12);
-        Serial.print("<<<"); printHex( in_buffer, in_buffer_len); Serial.println();
     } else {
       byte masked_pos = ((in_buffer[0] >> 4) & 0x0F);
       if( package_start[masked_pos] == in_buffer[0] ){
-        in_buffer[0] = Serial1.read();
-        in_buffer[1] = Serial1.read();
+        in_buffer_len = Serial1.readBytes(in_buffer, 2);
+        // timeout
+        if( in_buffer_len == 0 ) {
+          // re init chatpad if 1 sec no communication happend; (Serial1.setTimeout(20) * 50) = 1000 ms 
+          if((1000/timeout_ms) <= ++timeouts){ package_init(); timeouts = 0; }
+          return FAILURE; 
+        } else { 
+          timeouts = 0;
+        }
+          
         byte package_len = in_buffer[1] & 0x0F;
         if(package_len > 0){
-          read_bytes = Serial1.readBytes(&in_buffer[2], package_len+1);
-          
-          // timeout
-          if( read_bytes == 0 ) {
-            // re init chatpad if 1 sec no communication happend; (Serial1.setTimeout(20) * 50) = 1000 ms 
-            if((1000/timeout_ms) <= ++timeouts){ package_init(); timeouts = 0; }
-            return FAILURE; 
-          } else { 
-            timeouts = 0;
-            in_buffer_len = read_bytes + 2;
-          }
+          in_buffer_len += Serial1.readBytes(&in_buffer[2], package_len+1);
 
           // calc checksum
           for( int i = 0; i < package_len; i++){
@@ -67,18 +66,21 @@ int package_handle(){
           }
           sum = (~sum + 1); // = sum * (-1)
           if( sum == in_buffer[in_buffer_len-1]) return FAILURE;
-          Serial.print("<<<"); printHex( in_buffer, in_buffer_len); Serial.println();
-          if(in_buffer[0] == 0xA5) status_decode( in_buffer, in_buffer_len );
         }
+
       } else {
         in_buffer_len = Serial1.readBytes(in_buffer, in_buffer_size);
-        Serial.print("<<<"); printHex( in_buffer, in_buffer_len); Serial.println();
       }
     }
   }
   digitalWrite(led, LOW);
+  if( in_buffer_len != 0 ) {
+    Serial.print("<<<"); printHex( in_buffer, in_buffer_len); Serial.println();
+    package_analyse(in_buffer, in_buffer_len);
+    return SUCCESS;
+  }
 
-  return SUCCESS;
+  return FAILURE;
 }
 
 int package_init(){

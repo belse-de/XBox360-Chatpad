@@ -7,10 +7,7 @@ int package_wake();
 //                0F 0F - init count
 
 int status_decode(byte* buffer, int len){
-
-  
-  Serial.print("---status"); 
-  Serial.print(" - awake ");
+  Serial.print("---awake ");
   Serial.print( ((buffer[3] & 0x0F) == 0x03) ? "no " : ((buffer[3] & 0x0F) == 0x04) ? "yes" : "???" );
   Serial.print(" - light ");
   Serial.print( ((buffer[4] & 0xF0) == 0x00) ? "off" : ((buffer[4] & 0xF0) == 0x80) ? "on " : "???" );

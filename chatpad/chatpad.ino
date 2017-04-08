@@ -18,20 +18,24 @@ void blink(int delay_ms){
 
 void setup() {
   // put your setup code here, to run once:
-  Serial.begin(19200);
-  Serial1.begin(19200);
-  
+  Serial.begin(19200);  
+  while(not Serial) delay(1);
+  Serial.print(' '); Serial.flush();
+  Serial.println("=== SETUP ===================================================================================");
   Serial.println("Init");
-  Serial1.setTimeout(timeout_ms); // 15 to big 10 to smale  13                                                                                                                                    20 -> checksum error 4 fist packages
+  
+  Serial1.begin(19200);
+  Serial1.setTimeout(timeout_ms); // 15 to big 10 to smale  13  20 -> checksum error 4 fist packages
   pinMode(led, OUTPUT);
   blink(500);
   blink(500);
   delay(5000);
-  Serial.println("---Start");
   
+  Serial.println("---Start");
   package_init();
   package_wake();
   while( package_handle() == SUCCESS ) ;
+  Serial.println("=== LOOP ====================================================================================");
 }
 
 void loop() {
@@ -40,22 +44,28 @@ void loop() {
   static char msg_brut[] = "\x87\x02\x8C\x00\x00";
 
   if( result == 0 ){
-    if( msg_brut[3] == 0xFF ) result = 1;
+    
 
     if( Serial.available() ){
       String line = Serial.readStringUntil('\n'); 
       Serial.print("<<<"); Serial.println(line);
+
+      if( msg_brut[3] == 0xFF ) result = 1;
+      
+      // calc checksum
+      msg_brut[4] = ~(0x15 + msg_brut[3]) +1; // = sum * (-1)
+      Serial.print(">>>"); printHex( (uint8_t*)msg_brut, 5); Serial.println();
+      Serial.print("---msg brut "); printHex((uint8_t*)&msg_brut[3], 1); Serial.println("");
+      Serial.println("");
+      Serial1.write((uint8_t*)msg_brut, 5);
+      Serial1.flush();
+      
+      delay(80);
+      while( package_handle() == SUCCESS );
+      
+      if(msg_brut[3] <= 254) ++msg_brut[3];
     }
-    // calc checksum
-    msg_brut[4] = ~(0x15 + msg_brut[3]) +1; // = sum * (-1)
-    Serial.print(">>>msg brut "); printHex((uint8_t*)&msg_brut[3], 1); Serial.println("");
-    Serial1.write((uint8_t*)msg_brut, 5);
-    Serial1.flush();
-    
-    
-    while( package_handle() == SUCCESS );
-    
-    if(msg_brut[3] <= 254) ++msg_brut[3];
+
   }
   
   while( package_handle() == SUCCESS );
